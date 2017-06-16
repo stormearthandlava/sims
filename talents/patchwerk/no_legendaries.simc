@@ -42,7 +42,7 @@ talents=3112331
 copy="IF + EB + AfS 3111333",baseline
 talents=3111333
 
-copy="LR + EB AS 3112332",baseline
+copy="LR + EB + AS 3112332",baseline
 talents=3112332
 
 copy="ASC + EB + AfS 3111331",baseline
