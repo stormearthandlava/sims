@@ -1,0 +1,57 @@
+# Smoldering Heart Nerf
+override.spell_data=effect.465462.base_value=10
+
+# Lava Burst
+override.spell_data=effect.43841.sp_coefficient=2.8325
+# Overload
+override.spell_data=effect.68090.sp_coefficient=2.8325
+
+# Chain Lightning
+override.spell_data=effect.275203.sp_coefficient=1.648
+# Overload
+override.spell_data=effect.37247.sp_coefficient=1.648
+
+# Lightning Bolt
+override.spell_data=effect.274643.sp_coefficient=1.8025
+# Overload
+override.spell_data=effect.37246.sp_coefficient=1.8025
+
+# Elemental Blast
+override.spell_data=effect.132332.sp_coefficient=7.004
+# Overload
+override.spell_data=effect.140233.sp_coefficient=7.004
+
+# Icefury
+override.spell_data=effect.312134.sp_coefficient=9.270
+# Overload
+override.spell_data=effect.326661.sp_coefficient=9.270
+
+# Earth Shock
+override.spell_data=effect.3248.sp_coefficient=11.845
+
+# Flame Shock buffs
+override.spell_data=effect.274966.sp_coefficient=0.824
+override.spell_data=effect.274967.sp_coefficient=0.412
+
+# Frost Shock
+override.spell_data=effect.288995.sp_coefficient=0.824
+
+# Earthquake
+# hardcoded in simc itself, find and replace 0.775 w/ 0.775 * 1.03
+
+# Volcanic Inferno
+override.spell_data=effect.303678.sp_coefficient=0.618
+
+# Fire Blast
+override.spell_data=effect.51290.sp_coefficient=2.781
+
+# Lightning Blast
+override.spell_data=effect.281244.sp_coefficient=2.060
+
+
+
+chart_show_relative_difference=1
+Shaman_Elemental_T20M.simc
+
+hands=vicegrip_of_the_unrepentant,id=147048,ilevel=940
+finger2=scaled_band_of_servitude,id=147020,ilevel=930,enchant=200haste

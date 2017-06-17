@@ -1,0 +1,79 @@
+iterations=250000
+target_error=0.08
+threads=8
+fight_style=patchwerk
+#enemy=eins
+#enemy=zwei
+#enemy=drei
+#enemy=vier
+html=7_2_5_relics_T19_LR_patchwerk.html
+#log=1
+#output=maelstrom_log.txt
+calculate_scale_factors=0
+#scale_only=intellect,crit,haste,mastery,versatility
+single_actor_batch=1
+fixed_time=1
+max_time=300
+ptr=1
+default_actions=1
+default_skill=1.0
+
+
+7_2_5_gearset.simc
+name=baseline
+talents=3112332
+
+# weapon override to not have more traits than intended
+main_hand=the_fist_of_raden,id=128935,bonus_id=744,ilevel=954
+off_hand=the_highkeepers_ward,id=128936
+
+# 291 1 Stormkeeper
+# 292 1 Static Overload
+# 293 1 Master of the Elements
+# 294 1 Elementalist
+# 295 1 Fury of the Storms
+# 296 1 Power of the Elements
+# 297 1 Volcanic Inferno
+# 298 4 Call the Thunder
+# 299 4 The Ground Trembles (EQ)
+# 300 4 Lava Imbued (+3% LvB dmg)
+# 301 4 Firestorm
+# 302 4 Protection of the Elements
+# 303 4 Molten Blast (+2% crit LvB dmg)
+# 304 4 Electric Discharge (CL)
+# 305 4 Shamanistic Healing
+# 306 4 Earthen Attunement
+# 1350 1 Surge of Power
+# 1387 1 Stormkeeper's Power
+# 1589 4 Elemental Destabilization
+# 1590 1 Swelling Maelstrom
+# 1591 1 Seismic Storm
+# 1592 x Concordance
+# 1683 1 Power of the Earthen Ring
+
+copy=ctt_nature
+artifact=40:0:0:0:0:291:1:292:1:293:1:294:1:295:1:296:1:297:1:298:7:299:4:300:4:301:4:302:4:303:4:304:4:305:4:306:4:1350:1:1387:1:1589:4:1590:1:1591:1:1592:5:1683:1
+
+copy=tgt_eq
+artifact=40:0:0:0:0:291:1:292:1:293:1:294:1:295:1:296:1:297:1:298:4:299:7:300:4:301:4:302:4:303:4:304:4:305:4:306:4:1350:1:1387:1:1589:4:1590:1:1591:1:1592:5:1683:1
+
+copy=li_lvb
+artifact=40:0:0:0:0:291:1:292:1:293:1:294:1:295:1:296:1:297:1:298:4:299:4:300:7:301:4:302:4:303:4:304:4:305:4:306:4:1350:1:1387:1:1589:4:1590:1:1591:1:1592:5:1683:1
+
+copy=fs_fs
+artifact=40:0:0:0:0:291:1:292:1:293:1:294:1:295:1:296:1:297:1:298:4:299:4:300:4:301:7:302:4:303:4:304:4:305:4:306:4:1350:1:1387:1:1589:4:1590:1:1591:1:1592:5:1683:1
+
+copy=mb_lvs
+artifact=40:0:0:0:0:291:1:292:1:293:1:294:1:295:1:296:1:297:1:298:4:299:4:300:4:301:4:302:4:303:7:304:4:305:4:306:4:1350:1:1387:1:1589:4:1590:1:1591:1:1592:5:1683:1
+
+copy=edi_cl
+artifact=40:0:0:0:0:291:1:292:1:293:1:294:1:295:1:296:1:297:1:298:4:299:4:300:4:301:4:302:4:303:4:304:7:305:4:306:4:1350:1:1387:1:1589:4:1590:1:1591:1:1592:5:1683:1
+
+copy=ea_es
+artifact=40:0:0:0:0:291:1:292:1:293:1:294:1:295:1:296:1:297:1:298:4:299:4:300:4:301:4:302:4:303:4:304:4:305:4:306:7:1350:1:1387:1:1589:4:1590:1:1591:1:1592:5:1683:1
+
+copy=ede_crit
+artifact=40:0:0:0:0:291:1:292:1:293:1:294:1:295:1:296:1:297:1:298:4:299:4:300:4:301:4:302:4:303:4:304:4:305:4:306:4:1350:1:1387:1:1589:7:1590:1:1591:1:1592:5:1683:1
+
+copy=3ilevel
+main_hand=the_fist_of_raden,id=128935,ilevel=957
