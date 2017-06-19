@@ -1,35 +1,34 @@
+#####################################################
+################ START HOTFIXES #####################
+#####################################################
+
+### Legendaries
+
 # Smoldering Heart Nerf
 override.spell_data=effect.465462.base_value=10
 
+### Core Spells
+
 # Lava Burst
 override.spell_data=effect.43841.sp_coefficient=2.8325
-# Overload
+
+# Lava BurstOverload
 override.spell_data=effect.68090.sp_coefficient=2.8325
 
 # Chain Lightning
 override.spell_data=effect.275203.sp_coefficient=1.648
-# Overload
+# Chain Lightning Overload
 override.spell_data=effect.37247.sp_coefficient=1.648
 
 # Lightning Bolt
 override.spell_data=effect.274643.sp_coefficient=1.8025
-# Overload
+# Lightning Bolt Overload
 override.spell_data=effect.37246.sp_coefficient=1.8025
-
-# Elemental Blast
-override.spell_data=effect.132332.sp_coefficient=7.004
-# Overload
-override.spell_data=effect.140233.sp_coefficient=7.004
-
-# Icefury
-override.spell_data=effect.312134.sp_coefficient=9.270
-# Overload
-override.spell_data=effect.326661.sp_coefficient=9.270
 
 # Earth Shock
 override.spell_data=effect.3248.sp_coefficient=11.845
 
-# Flame Shock buffs
+# Flame Shock
 override.spell_data=effect.274966.sp_coefficient=0.824
 override.spell_data=effect.274967.sp_coefficient=0.412
 
@@ -39,15 +38,68 @@ override.spell_data=effect.288995.sp_coefficient=0.824
 # Earthquake
 # hardcoded in simc itself, find and replace 0.775 w/ 0.775 * 1.03
 
+### Talents
+
+# Elemental Blast
+override.spell_data=effect.132332.sp_coefficient=7.004
+
+# Elemental Blast Overload
+override.spell_data=effect.140233.sp_coefficient=7.004
+
+# Icefury
+override.spell_data=effect.312134.sp_coefficient=9.270
+
+# Icefury Overload
+override.spell_data=effect.326661.sp_coefficient=9.270
+
+# Earthen Rage = 170374 => 170379
+override.spell_data=effect.241705.sp_coefficient=0.5665
+
+# Liquid Magma Totem = 192222 => 192231
+override.spell_data=effect.282015.sp_coefficient=1.133
+
+### Artifact Abilities
+
+# Seismic Storm = 238141 => 243073
+override.spell_data=effect.369202.sp_coefficient=7.21
+
 # Volcanic Inferno
 override.spell_data=effect.303678.sp_coefficient=0.618
+
+# GLE Lightning Blast
+override.spell_data=effect.281244.sp_coefficient=2.060
+
+# GLE Chain Lightning = 191732
+override.spell_data=effect.281250.sp_coefficient=0.515
+
+### Fire Elemental
 
 # Fire Blast
 override.spell_data=effect.51290.sp_coefficient=2.781
 
-# Lightning Blast
-override.spell_data=effect.281244.sp_coefficient=2.060
+### Storm Elemental
 
+# Call Lightning
+override.spell_data=effect.219409.sp_coefficient=1.236
+
+# Wind Gust
+override.spell_data=effect.219326.sp_coefficient=0.618
+
+### Primal Fire Elemental
+
+# Fire Blast
+override.spell_data=effect.51290.sp_coefficient=2.781
+
+# Immolate = 118297
+override.spell_data=effect.134677.sp_coefficient=0.309
+override.spell_data=effect.134678.sp_coefficient=0.824
+
+# Fire Nova = 117588
+override.spell_data=effect.133506.sp_coefficient=1.03
+
+#####################################################
+################# END HOTFIXES ######################
+#####################################################
 
 
 chart_show_relative_difference=1
