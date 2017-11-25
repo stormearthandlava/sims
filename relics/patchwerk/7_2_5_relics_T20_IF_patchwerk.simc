@@ -1,12 +1,12 @@
 iterations=250000
-target_error=0.05
-threads=
+target_error=0.08
+threads=8
 fight_style=patchwerk
 #enemy=eins
 #enemy=zwei
 #enemy=drei
 #enemy=vier
-html=7_2_5_test_patchwerk_races.html
+html=7_2_5_relics_T20_IF_patchwerk.html
 #log=1
 #output=maelstrom_log.txt
 calculate_scale_factors=0
@@ -18,26 +18,9 @@ ptr=1
 default_actions=1
 default_skill=1.0
 
-T21_Shaman_Elemental.simc
 
-#talents=1112331
-name=orc
-race=orc
+Tier19P/7_2_5_gearset.simc
+name=baseline
+talents=3111333
 
-copy=troll
-race=troll
-
-copy=goblin
-race=goblin
-
-copy=tauren
-race=tauren
-
-copy=dwarf
-race=dwarf
-
-copy=pandaren
-race=pandaren
-
-copy=draenei
-race=draenei
+Tier19P/7_2_5_relics.simc

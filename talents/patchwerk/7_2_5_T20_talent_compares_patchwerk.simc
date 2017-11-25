@@ -18,12 +18,15 @@ ptr=1
 default_actions=1
 default_skill=1.0
 
-7_2_5_gearset.simc
+Tier19P/7_2_5_gearset.simc
 
 set_bonus=tier19_2pc=0
 set_bonus=tier19_4pc=0
-set_bonus=tier20_2pc=1
-set_bonus=tier20_4pc=1
+set_bonus=tier21_2pc=1
+set_bonus=tier21_4pc=1
+
+set_bonus=tier20_2pc=0
+set_bonus=tier20_4pc=0
 
 name=3113333
 talents=3113333

@@ -21,12 +21,16 @@ default_skill=1.0
 
 # artifact path basic with 10%
 
-7_2_5_gearset.simc
+Tier19P/7_2_5_gearset.simc
 name=baseline
-talents=3112331
+talents=3111331
 
-set_bonus=tier20_2pc=1
-set_bonus=tier20_4pc=1
+
+set_bonus=tier21_2pc=1
+set_bonus=tier21_4pc=1
+
+set_bonus=tier20_2pc=0
+set_bonus=tier20_4pc=0
 
 set_bonus=tier19_2pc=0
 set_bonus=tier19_4pc=0
@@ -35,310 +39,309 @@ set_bonus=tier19_4pc=0
 
 
 
-copy=Deceivers,baseline
-feet=,id=137035,ilevel=970
-
-copy=UR,baseline
-head=,id=143732,ilevel=970
-
-copy=EotN,baseline
-finger1=,id=137050,ilevel=970,gems=200int,enchant=200crit
-
-copy=Sephuz,baseline
-finger1=,id=132452,ilevel=970,gems=200int,enchant=200crit
-
-copy=Girdle,baseline
-waist=,id=137083,ilevel=970
-
-copy=Prydaz,baseline
-neck=,id=132444,ilevel=970,enchant=mark_of_the_claw
-
-copy=KJBW,baseline
-trinket2=,id=144259,ilevel=970
-
-copy=Roots,baseline
-legs=,id=132466,ilevel=970
-
-copy=Echoes,baseline
-shoulders=,id=137074,ilevel=970
-# fishing for shoulder procs isn't good
-
-copy=Soul,baseline
-finger2=,id=151647,ilevel=970,gems=200int,enchant=200crit
-talents=3112311
-
-copy=Alakir,baseline
-wrists=,id=137102,ilevel=970
-
-copy=Smoldering,baseline
-hands=,id=151819,ilevel=970
-
-
+#copy=Deceivers,baseline
+#feet=,id=137035,ilevel=1000
+#
+#copy=UR,baseline
+#head=,id=143732,ilevel=1000
+#
+#copy=EotN,baseline
+#finger1=,id=137050,ilevel=1000,gems=200int,enchant=200crit
+#
+#copy=Sephuz,baseline
+#finger1=,id=132452,ilevel=1000,gems=200int,enchant=200crit
+#
+#copy=Girdle,baseline
+#waist=,id=137083,ilevel=1000
+#
+#copy=Prydaz,baseline
+#neck=,id=132444,ilevel=1000,enchant=mark_of_the_claw
+#
+#copy=KJBW,baseline
+#trinket2=,id=144259,ilevel=1000
+#
+#copy=Roots,baseline
+#legs=,id=132466,ilevel=1000
+#
+#copy=Echoes,baseline
+#shoulders=,id=137074,ilevel=1000
+## fishing for shoulder procs isn't good
+#
+#copy=Soul,baseline
+#finger2=,id=151647,ilevel=1000,gems=200int,enchant=200crit
+#talents=3112311
+#
+#copy=Alakir,baseline
+#wrists=,id=137102,ilevel=1000
+#
+#copy=Smoldering,baseline
+#hands=,id=151819,ilevel=1000
+#
+#
 ##############################################################################################
 
 copy=Deceivers_UR,baseline
-feet=,id=137035,ilevel=970
-head=,id=143732,ilevel=970
+feet=,id=137035,ilevel=1000
+head=,id=143732,ilevel=1000
 
 copy=Deceivers_EotN,baseline
-feet=,id=137035,ilevel=970
-finger1=,id=137050,ilevel=970,gems=200int,enchant=200crit
+feet=,id=137035,ilevel=1000
+finger1=,id=137050,ilevel=1000,gems=200int,enchant=200crit
 
 copy=Deceivers_Sephuz,baseline
-feet=,id=137035,ilevel=970
-finger1=,id=132452,ilevel=970,gems=200int,enchant=200crit
+feet=,id=137035,ilevel=1000
+finger1=,id=132452,ilevel=1000,gems=200int,enchant=200crit
 
 copy=Deceivers_Girdle,baseline
-feet=,id=137035,ilevel=970
-waist=,id=137083,ilevel=970
+feet=,id=137035,ilevel=1000
+waist=,id=137083,ilevel=1000
 
 copy=Deceivers_Prydaz,baseline
-feet=,id=137035,ilevel=970
-neck=,id=132444,ilevel=970,enchant=mark_of_the_hidden_satyr
+feet=,id=137035,ilevel=1000
+neck=,id=132444,ilevel=1000,enchant=mark_of_the_claw
 
 copy=Deceivers_KJBW,baseline
-feet=,id=137035,ilevel=970
-trinket2=,id=144259,ilevel=970
+feet=,id=137035,ilevel=1000
+trinket2=,id=144259,ilevel=1000
 
 copy=Deceivers_Roots,baseline
-feet=,id=137035,ilevel=970
-legs=,id=132466,ilevel=970
+feet=,id=137035,ilevel=1000
+legs=,id=132466,ilevel=1000
 
 copy=Deceivers_Echo,baseline
-feet=,id=137035,ilevel=970
-shoulders=,id=137074,ilevel=970
+feet=,id=137035,ilevel=1000
+shoulders=,id=137074,ilevel=1000
 
 copy=Deceivers_Soul,baseline
-feet=,id=137035,ilevel=970
-finger2=,id=151647,ilevel=970,gems=200int,enchant=200crit talents=3112311
+feet=,id=137035,ilevel=1000
+finger2=,id=151647,ilevel=1000,gems=200int,enchant=200crit talents=3111321
 
 copy=Deceivers_Alakir,baseline
-feet=,id=137035,ilevel=970
-wrists=,id=137102,ilevel=970
+feet=,id=137035,ilevel=1000
+wrists=,id=137102,ilevel=1000
 
 copy=Deceivers_Smoldering,baseline
-feet=,id=137035,ilevel=970
-hands=,id=151819,ilevel=970
-talents=3111231
+feet=,id=137035,ilevel=1000
+hands=,id=151819,ilevel=1000
 
 copy=UR_EotN,baseline
-head=,id=143732,ilevel=970
-finger1=,id=137050,ilevel=970,gems=200int,enchant=200crit
+head=,id=143732,ilevel=1000
+finger1=,id=137050,ilevel=1000,gems=200int,enchant=200crit
 
 copy=UR_Sephuz,baseline
-head=,id=143732,ilevel=970
-finger1=,id=132452,ilevel=970,gems=200int,enchant=200crit
+head=,id=143732,ilevel=1000
+finger1=,id=132452,ilevel=1000,gems=200int,enchant=200crit
 
 copy=UR_Girdle,baseline
-head=,id=143732,ilevel=970
-waist=,id=137083,ilevel=970
+head=,id=143732,ilevel=1000
+waist=,id=137083,ilevel=1000
 
 copy=UR_Prydaz,baseline
-head=,id=143732,ilevel=970
-neck=,id=132444,ilevel=970,enchant=mark_of_the_hidden_satyr
+head=,id=143732,ilevel=1000
+neck=,id=132444,ilevel=1000,enchant=mark_of_the_claw
 
 copy=UR_KJBW,baseline
-head=,id=143732,ilevel=970
-trinket2=,id=144259,ilevel=970
+head=,id=143732,ilevel=1000
+trinket2=,id=144259,ilevel=1000
 
 copy=UR_Roots,baseline
-head=,id=143732,ilevel=970
-legs=,id=132466,ilevel=970
+head=,id=143732,ilevel=1000
+legs=,id=132466,ilevel=1000
 
 copy=UR_Echo,baseline
-head=,id=143732,ilevel=970
-shoulders=,id=137074,ilevel=970
+head=,id=143732,ilevel=1000
+shoulders=,id=137074,ilevel=1000
 
 copy=UR_Soul,baseline
-head=,id=143732,ilevel=970
-finger2=,id=151647,ilevel=970,gems=200int,enchant=200crit talents=3112311
+head=,id=143732,ilevel=1000
+finger2=,id=151647,ilevel=1000,gems=200int,enchant=200crit talents=3111321
 
 copy=UR_Alakir,baseline
-head=,id=143732,ilevel=970
-wrists=,id=137102,ilevel=970
+head=,id=143732,ilevel=1000
+wrists=,id=137102,ilevel=1000
 
 copy=UR_Smoldering,baseline
-head=,id=143732,ilevel=970
-hands=,id=151819,ilevel=970
+head=,id=143732,ilevel=1000
+hands=,id=151819,ilevel=1000
 
 copy=EotN_Sephuz,baseline
-finger1=,id=137050,ilevel=970,gems=200int,enchant=200crit
-finger2=,id=132452,ilevel=970,gems=200int,enchant=200crit
+finger1=,id=137050,ilevel=1000,gems=200int,enchant=200crit
+finger2=,id=132452,ilevel=1000,gems=200int,enchant=200crit
 
 copy=EotN_Girdle,baseline
-finger1=,id=137050,ilevel=970,gems=200int,enchant=200crit
-waist=,id=137083,ilevel=970
+finger1=,id=137050,ilevel=1000,gems=200int,enchant=200crit
+waist=,id=137083,ilevel=1000
 
 copy=EotN_Prydaz,baseline
-finger1=,id=137050,ilevel=970,gems=200int,enchant=200crit
-neck=,id=132444,ilevel=970,enchant=mark_of_the_hidden_satyr
+finger1=,id=137050,ilevel=1000,gems=200int,enchant=200crit
+neck=,id=132444,ilevel=1000,enchant=mark_of_the_claw
 
 copy=EotN_KJBW,baseline
-finger1=,id=137050,ilevel=970,gems=200int,enchant=200crit
-trinket2=,id=144259,ilevel=970
+finger1=,id=137050,ilevel=1000,gems=200int,enchant=200crit
+trinket2=,id=144259,ilevel=1000
 
 copy=EotN_Roots,baseline
-finger1=,id=137050,ilevel=970,gems=200int,enchant=200crit
-legs=,id=132466,ilevel=970
+finger1=,id=137050,ilevel=1000,gems=200int,enchant=200crit
+legs=,id=132466,ilevel=1000
 
 copy=EotN_Echo,baseline
-finger1=,id=137050,ilevel=970,gems=200int,enchant=200crit
-shoulders=,id=137074,ilevel=970
+finger1=,id=137050,ilevel=1000,gems=200int,enchant=200crit
+shoulders=,id=137074,ilevel=1000
 
 copy=EotN_Soul,baseline
-finger1=,id=137050,ilevel=970,gems=200int,enchant=200crit
-finger2=,id=151647,ilevel=970,gems=200int,enchant=200crit talents=3112311
+finger1=,id=137050,ilevel=1000,gems=200int,enchant=200crit
+finger2=,id=151647,ilevel=1000,gems=200int,enchant=200crit talents=3111321
 
 copy=EotN_Alakir,baseline
-finger1=,id=137050,ilevel=970,gems=200int,enchant=200crit
-wrists=,id=137102,ilevel=970
+finger1=,id=137050,ilevel=1000,gems=200int,enchant=200crit
+wrists=,id=137102,ilevel=1000
 
 copy=EotN_Smoldering,baseline
-finger1=,id=137050,ilevel=970,gems=200int,enchant=200crit
-hands=,id=151819,ilevel=970
+finger1=,id=137050,ilevel=1000,gems=200int,enchant=200crit
+hands=,id=151819,ilevel=1000
 
 copy=Sephuz_Girdle,baseline
-finger1=,id=132452,ilevel=970,gems=200int,enchant=200crit
-waist=,id=137083,ilevel=970
+finger1=,id=132452,ilevel=1000,gems=200int,enchant=200crit
+waist=,id=137083,ilevel=1000
 
 copy=Sephuz_Prydaz,baseline
-finger1=,id=132452,ilevel=970,gems=200int,enchant=200crit
-neck=,id=132444,ilevel=970,enchant=mark_of_the_hidden_satyr
+finger1=,id=132452,ilevel=1000,gems=200int,enchant=200crit
+neck=,id=132444,ilevel=1000,enchant=mark_of_the_claw
 
 copy=Sephuz_KJBW,baseline
-finger1=,id=132452,ilevel=970,gems=200int,enchant=200crit
-trinket2=,id=144259,ilevel=970
+finger1=,id=132452,ilevel=1000,gems=200int,enchant=200crit
+trinket2=,id=144259,ilevel=1000
 
 copy=Sephuz_Roots,baseline
-finger1=,id=132452,ilevel=970,gems=200int,enchant=200crit
-legs=,id=132466,ilevel=970
+finger1=,id=132452,ilevel=1000,gems=200int,enchant=200crit
+legs=,id=132466,ilevel=1000
 
 copy=Sephuz_Echo,baseline
-finger1=,id=132452,ilevel=970,gems=200int,enchant=200crit
-shoulders=,id=137074,ilevel=970
+finger1=,id=132452,ilevel=1000,gems=200int,enchant=200crit
+shoulders=,id=137074,ilevel=1000
 
 copy=Sephuz_Soul,baseline
-finger1=,id=132452,ilevel=970,gems=200int,enchant=200crit
-finger2=,id=151647,ilevel=970,gems=200int,enchant=200crit talents=3112311
+finger1=,id=132452,ilevel=1000,gems=200int,enchant=200crit
+finger2=,id=151647,ilevel=1000,gems=200int,enchant=200crit talents=3111321
 
 copy=Sephuz_Alakir,baseline
-finger1=,id=132452,ilevel=970,gems=200int,enchant=200crit
-wrists=,id=137102,ilevel=970
+finger1=,id=132452,ilevel=1000,gems=200int,enchant=200crit
+wrists=,id=137102,ilevel=1000
 
 copy=Sephuz_Smoldering,baseline
-finger1=,id=132452,ilevel=970,gems=200int,enchant=200crit
-hands=,id=151819,ilevel=970
+finger1=,id=132452,ilevel=1000,gems=200int,enchant=200crit
+hands=,id=151819,ilevel=1000
 
 copy=Girdle_Prydaz,baseline
-waist=,id=137083,ilevel=970
-neck=,id=132444,ilevel=970,enchant=mark_of_the_hidden_satyr
+waist=,id=137083,ilevel=1000
+neck=,id=132444,ilevel=1000,enchant=mark_of_the_claw
 
 copy=Girdle_KJBW,baseline
-waist=,id=137083,ilevel=970
-trinket2=,id=144259,ilevel=970
+waist=,id=137083,ilevel=1000
+trinket2=,id=144259,ilevel=1000
 
 copy=Girdle_Roots,baseline
-waist=,id=137083,ilevel=970
-legs=,id=132466,ilevel=970
+waist=,id=137083,ilevel=1000
+legs=,id=132466,ilevel=1000
 
 copy=Girdle_Echo,baseline
-waist=,id=137083,ilevel=970
-shoulders=,id=137074,ilevel=970
+waist=,id=137083,ilevel=1000
+shoulders=,id=137074,ilevel=1000
 
 copy=Girdle_Soul,baseline
-waist=,id=137083,ilevel=970
-finger2=,id=151647,ilevel=970,gems=200int,enchant=200crit talents=3112311
+waist=,id=137083,ilevel=1000
+finger2=,id=151647,ilevel=1000,gems=200int,enchant=200crit talents=3111321
 
 copy=Girdle_Alakir,baseline
-waist=,id=137083,ilevel=970
-wrists=,id=137102,ilevel=970
+waist=,id=137083,ilevel=1000
+wrists=,id=137102,ilevel=1000
 
 copy=Girdle_Smoldering,baseline
-waist=,id=137083,ilevel=970
-hands=,id=151819,ilevel=970
+waist=,id=137083,ilevel=1000
+hands=,id=151819,ilevel=1000
 
 copy=Prydaz_KJBW,baseline
-neck=,id=132444,ilevel=970,enchant=mark_of_the_hidden_satyr
-trinket2=,id=144259,ilevel=970
+neck=,id=132444,ilevel=1000,enchant=mark_of_the_claw
+trinket2=,id=144259,ilevel=1000
 
 copy=Prydaz_Roots,baseline
-neck=,id=132444,ilevel=970,enchant=mark_of_the_hidden_satyr
-legs=,id=132466,ilevel=970
+neck=,id=132444,ilevel=1000,enchant=mark_of_the_claw
+legs=,id=132466,ilevel=1000
 
 copy=Prydaz_Echo,baseline
-neck=,id=132444,ilevel=970,enchant=mark_of_the_hidden_satyr
-shoulders=,id=137074,ilevel=970
+neck=,id=132444,ilevel=1000,enchant=mark_of_the_claw
+shoulders=,id=137074,ilevel=1000
 
 copy=Prydaz_Soul,baseline
-neck=,id=132444,ilevel=970,enchant=mark_of_the_hidden_satyr
-finger2=,id=151647,ilevel=970,gems=200int,enchant=200crit talents=3112311
+neck=,id=132444,ilevel=1000,enchant=mark_of_the_claw
+finger2=,id=151647,ilevel=1000,gems=200int,enchant=200crit talents=3111321
 
 copy=Prydaz_Alakir,baseline
-neck=,id=132444,ilevel=970,enchant=mark_of_the_hidden_satyr
-wrists=,id=137102,ilevel=970
+neck=,id=132444,ilevel=1000,enchant=mark_of_the_claw
+wrists=,id=137102,ilevel=1000
 
 copy=Prydaz_Smoldering,baseline
-neck=,id=132444,ilevel=970,enchant=mark_of_the_hidden_satyr
-hands=,id=151819,ilevel=970
+neck=,id=132444,ilevel=1000,enchant=mark_of_the_claw
+hands=,id=151819,ilevel=1000
 
 copy=KJBW_Roots,baseline
-trinket2=,id=144259,ilevel=970
-legs=,id=132466,ilevel=970
+trinket2=,id=144259,ilevel=1000
+legs=,id=132466,ilevel=1000
 
 copy=KJBW_Echo,baseline
-trinket2=,id=144259,ilevel=970
-shoulders=,id=137074,ilevel=970
+trinket2=,id=144259,ilevel=1000
+shoulders=,id=137074,ilevel=1000
 
 copy=KJBW_Soul,baseline
-trinket2=,id=144259,ilevel=970
-finger2=,id=151647,ilevel=970,gems=200int,enchant=200crit talents=3112311
+trinket2=,id=144259,ilevel=1000
+finger2=,id=151647,ilevel=1000,gems=200int,enchant=200crit talents=3111321
 
 copy=KJBW_Alakir,baseline
-trinket2=,id=144259,ilevel=970
-wrists=,id=137102,ilevel=970
+trinket2=,id=144259,ilevel=1000
+wrists=,id=137102,ilevel=1000
 
 copy=KJBW_Smoldering,baseline
-trinket2=,id=144259,ilevel=970
-hands=,id=151819,ilevel=970
+trinket2=,id=144259,ilevel=1000
+hands=,id=151819,ilevel=1000
 
 copy=Roots_Echo,baseline
-legs=,id=132466,ilevel=970
-shoulders=,id=137074,ilevel=970
+legs=,id=132466,ilevel=1000
+shoulders=,id=137074,ilevel=1000
 
 copy=Roots_Soul,baseline
-legs=,id=132466,ilevel=970
-finger2=,id=151647,ilevel=970,gems=200int,enchant=200crit talents=3112311
+legs=,id=132466,ilevel=1000
+finger2=,id=151647,ilevel=1000,gems=200int,enchant=200crit talents=3111321
 
 copy=Roots_Alakir,baseline
-legs=,id=132466,ilevel=970
-wrists=,id=137102,ilevel=970
+legs=,id=132466,ilevel=1000
+wrists=,id=137102,ilevel=1000
 
 copy=Roots_Smoldering,baseline
-legs=,id=132466,ilevel=970
-hands=,id=151819,ilevel=970
+legs=,id=132466,ilevel=1000
+hands=,id=151819,ilevel=1000
 
 copy=Echo_Soul,baseline
-shoulders=,id=137074,ilevel=970
-finger2=,id=151647,ilevel=970,gems=200int,enchant=200crit talents=3112311
+shoulders=,id=137074,ilevel=1000
+finger2=,id=151647,ilevel=1000,gems=200int,enchant=200crit talents=3111321
 
 copy=Echo_Alakir,baseline
-shoulders=,id=137074,ilevel=970
-wrists=,id=137102,ilevel=970
+shoulders=,id=137074,ilevel=1000
+wrists=,id=137102,ilevel=1000
 
 copy=Echo_Smoldering,baseline
-shoulders=,id=137074,ilevel=970
-hands=,id=151819,ilevel=970
+shoulders=,id=137074,ilevel=1000
+hands=,id=151819,ilevel=1000
 
 copy=Soul_Alakir,baseline
-finger2=,id=151647,ilevel=970,gems=200int,enchant=200crit talents=3112311
-wrists=,id=137102,ilevel=970
+finger2=,id=151647,ilevel=1000,gems=200int,enchant=200crit talents=3111321
+wrists=,id=137102,ilevel=1000
 
 copy=Soul_Smoldering,baseline
-finger2=,id=151647,ilevel=970,gems=200int,enchant=200crit talents=3112311
-hands=,id=151819,ilevel=970
+finger2=,id=151647,ilevel=1000,gems=200int,enchant=200crit talents=3111321
+hands=,id=151819,ilevel=1000
 
 copy=Alakir_Smoldering,baseline
-wrists=,id=137102,ilevel=970
-hands=,id=151819,ilevel=970
+wrists=,id=137102,ilevel=1000
+hands=,id=151819,ilevel=1000
 
 #Done printing
