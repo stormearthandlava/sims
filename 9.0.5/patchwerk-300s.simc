@@ -1,0 +1,149 @@
+ptr=1
+
+shaman="Spookythundr"
+race="tauren"
+level="60"
+spec="elemental"
+role="spell"
+covenant="necrolord"
+soulbind="bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+name="Spookythundr"
+
+
+temporary_enchant=""
+shadowlands.stone_legionnaires_in_party="0"
+shadowlands.crimson_choir_in_party="0"
+shadowlands.disable_iqd_execute="0"
+shadowlands.iqd_stat_fail_chance="0"
+shadowlands.unbound_changeling_stat_type=""
+
+### Combo 1
+# Sinful Gladiator's Chain Helm 226
+head=",id=175902,gem_id=173127,bonus_id=6634/1498/6646/6935"
+# Sinful Gladiator's Necklace 226
+neck=",id=175922,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Chain Monnion 226
+shoulder=",id=175911,bonus_id=6652/6623/1498/6646"
+# Decadent Nathrian Shawl 226
+back=",id=184778,enchant_id=6203,bonus_id=7187/6652/1498/6646"
+# Consumptive Chainmail Carapace 226
+chest=",id=183000,enchant_id=6230,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Bracers 226
+wrist=",id=178384,enchant_id=6220,gem_id=173127,bonus_id=6621/6652/1498/6646/6935"
+# Oathsworn Soldier's Gauntlets 233
+hands=",id=182991,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Belt 226
+waist=",id=175914,gem_id=173128,bonus_id=6623/6652/1498/6646/6935"
+# Lichbone Legguards 226
+legs=",id=178778,bonus_id=7214/6652/1501/5884/6646"
+# Windspeaker's Lava Resurgence 235
+feet=",id=172323,enchant_id=6207,bonus_id=6992/6649/6650/6758/1532"
+# Ardent Sunstar Signet 226
+finger1=",id=183035,enchant_id=6166,gem_id=168638,bonus_id=7187/6652/6935/1498/6646"
+# Sinful Gladiator's Ring 226
+finger2=",id=175916,enchant_id=6166,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Glyph of Assimilation 226
+trinket1=",id=184021,bonus_id=7187/6652/1498/6646"
+# Dreadfire Vessel 220
+trinket2=",id=184030,bonus_id=7188/6652/1485/6646"
+# Sinful Gladiator's Gavel 226
+main_hand=",id=183449,enchant_id=6229,bonus_id=7229/1498/6646"
+# Sinful Gladiator's Redoubt 226
+off_hand=",id=183438,bonus_id=6652/7135/1498/6646"
+talents="2311132"
+soulbind="bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+covenant="necrolord"
+
+### Combo 2
+# Sinful Gladiator's Chain Helm 226
+profileset."Combo 2"+="head=,id=175902,gem_id=173127,bonus_id=6634/1498/6646/6935"
+# Sinful Gladiator's Necklace 226
+profileset."Combo 2"+="neck=,id=175922,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Chain Monnion 226
+profileset."Combo 2"+="shoulder=,id=175911,bonus_id=6652/6623/1498/6646"
+# Decadent Nathrian Shawl 226
+profileset."Combo 2"+="back=,id=184778,enchant_id=6203,bonus_id=7187/6652/1498/6646"
+# Consumptive Chainmail Carapace 226
+profileset."Combo 2"+="chest=,id=183000,enchant_id=6230,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Bracers 226
+profileset."Combo 2"+="wrist=,id=178384,enchant_id=6220,gem_id=173127,bonus_id=6621/6652/1498/6646/6935"
+# Oathsworn Soldier's Gauntlets 233
+profileset."Combo 2"+="hands=,id=182991,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Belt 226
+profileset."Combo 2"+="waist=,id=175914,gem_id=173128,bonus_id=6623/6652/1498/6646/6935"
+# Lichbone Legguards 226
+profileset."Combo 2"+="legs=,id=178778,bonus_id=7214/6652/1501/5884/6646"
+# Legionnaire's Bloodstained Sabatons 226
+profileset."Combo 2"+="feet=,id=182990,enchant_id=6207,bonus_id=7187/6652/1498/6646"
+# Ardent Sunstar Signet 226
+profileset."Combo 2"+="finger1=,id=183035,enchant_id=6166,gem_id=168638,bonus_id=7187/6652/6935/1498/6646"
+# Sinful Gladiator's Ring 226
+profileset."Combo 2"+="finger2=,id=175916,enchant_id=6166,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Glyph of Assimilation 226
+profileset."Combo 2"+="trinket1=,id=184021,bonus_id=7187/6652/1498/6646"
+# Dreadfire Vessel 220
+profileset."Combo 2"+="trinket2=,id=184030,bonus_id=7188/6652/1485/6646"
+# Sinful Gladiator's Gavel 226
+profileset."Combo 2"+="main_hand=,id=183449,enchant_id=6229,bonus_id=7229/1498/6646"
+# Sinful Gladiator's Redoubt 226
+profileset."Combo 2"+="off_hand=,id=183438,bonus_id=6652/7135/1498/6646"
+profileset."Combo 2"+="talents=2311132"
+profileset."Combo 2"+="soulbind=bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+profileset."Combo 2"+="covenant=necrolord"
+
+### Combo 3
+# Sinful Gladiator's Chain Helm 226
+profileset."Combo 3"+="head=,id=175902,gem_id=173127,bonus_id=6634/1498/6646/6935"
+# Sinful Gladiator's Necklace 226
+profileset."Combo 3"+="neck=,id=175922,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Echoes of the Great Sundering 235
+profileset."Combo 3"+="shoulder=,id=172327,bonus_id=6716/6991/6647/6649/1532"
+# Decadent Nathrian Shawl 226
+profileset."Combo 3"+="back=,id=184778,enchant_id=6203,bonus_id=7187/6652/1498/6646"
+# Consumptive Chainmail Carapace 226
+profileset."Combo 3"+="chest=,id=183000,enchant_id=6230,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Bracers 226
+profileset."Combo 3"+="wrist=,id=178384,enchant_id=6220,gem_id=173127,bonus_id=6621/6652/1498/6646/6935"
+# Oathsworn Soldier's Gauntlets 233
+profileset."Combo 3"+="hands=,id=182991,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Belt 226
+profileset."Combo 3"+="waist=,id=175914,gem_id=173128,bonus_id=6623/6652/1498/6646/6935"
+# Lichbone Legguards 226
+profileset."Combo 3"+="legs=,id=178778,bonus_id=7214/6652/1501/5884/6646"
+# Legionnaire's Bloodstained Sabatons 226
+profileset."Combo 3"+="feet=,id=182990,enchant_id=6207,bonus_id=7187/6652/1498/6646"
+# Ardent Sunstar Signet 226
+profileset."Combo 3"+="finger1=,id=183035,enchant_id=6166,gem_id=168638,bonus_id=7187/6652/6935/1498/6646"
+# Sinful Gladiator's Ring 226
+profileset."Combo 3"+="finger2=,id=175916,enchant_id=6166,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Glyph of Assimilation 226
+profileset."Combo 3"+="trinket1=,id=184021,bonus_id=7187/6652/1498/6646"
+# Dreadfire Vessel 220
+profileset."Combo 3"+="trinket2=,id=184030,bonus_id=7188/6652/1485/6646"
+# Sinful Gladiator's Gavel 226
+profileset."Combo 3"+="main_hand=,id=183449,enchant_id=6229,bonus_id=7229/1498/6646"
+# Sinful Gladiator's Redoubt 226
+profileset."Combo 3"+="off_hand=,id=183438,bonus_id=6652/7135/1498/6646"
+profileset."Combo 3"+="talents=2311132"
+profileset."Combo 3"+="soulbind=bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+profileset."Combo 3"+="covenant=necrolord"
+
+
+# Simulation Configs
+iterations="5000"
+fight_style="Patchwerk"
+desired_targets="1"
+max_time="300"
+calculate_scale_factors="0"
+scale_only="strength,intellect,agility,crit,mastery,vers,haste,weapon_dps,weapon_offhand_dps"
+override.bloodlust="1"
+override.arcane_intellect="1"
+override.power_word_fortitude="1"
+override.battle_shout="1"
+override.mystic_touch="1"
+override.chaos_brand="1"
+override.windfury_totem="1"
+override.bleeding="1"
+report_details="1"
+single_actor_batch="1"
+optimize_expressions="1"

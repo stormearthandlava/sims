@@ -1,0 +1,964 @@
+ptr=1
+
+shaman="Spookythundr"
+race="tauren"
+level="60"
+spec="elemental"
+role="spell"
+covenant="necrolord"
+soulbind="bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+name="Spookythundr"
+
+
+temporary_enchant=""
+shadowlands.stone_legionnaires_in_party="0"
+shadowlands.crimson_choir_in_party="0"
+shadowlands.disable_iqd_execute="0"
+shadowlands.iqd_stat_fail_chance="0"
+shadowlands.unbound_changeling_stat_type=""
+
+### Combo 1
+# Sinful Gladiator's Chain Helm 226
+head=",id=175902,gem_id=173127,bonus_id=6634/1498/6646/6935"
+# Sinful Gladiator's Necklace 226
+neck=",id=175922,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Chain Monnion 226
+shoulder=",id=175911,bonus_id=6652/6623/1498/6646"
+# Decadent Nathrian Shawl 226
+back=",id=184778,enchant_id=6203,bonus_id=7187/6652/1498/6646"
+# Consumptive Chainmail Carapace 226
+chest=",id=183000,enchant_id=6230,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Bracers 226
+wrist=",id=178384,enchant_id=6220,gem_id=173127,bonus_id=6621/6652/1498/6646/6935"
+# Oathsworn Soldier's Gauntlets 233
+hands=",id=182991,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Belt 226
+waist=",id=175914,gem_id=173128,bonus_id=6623/6652/1498/6646/6935"
+# Lichbone Legguards 226
+legs=",id=178778,bonus_id=7214/6652/1501/5884/6646"
+# Windspeaker's Lava Resurgence 235
+feet=",id=172323,enchant_id=6207,bonus_id=6992/6649/6650/6758/1532"
+# Ardent Sunstar Signet 226
+finger1=",id=183035,enchant_id=6166,gem_id=168638,bonus_id=7187/6652/6935/1498/6646"
+# Sinful Gladiator's Ring 226
+finger2=",id=175916,enchant_id=6166,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Glyph of Assimilation 226
+trinket1=",id=184021,bonus_id=7187/6652/1498/6646"
+# Dreadfire Vessel 220
+trinket2=",id=184030,bonus_id=7188/6652/1485/6646"
+# Sinful Gladiator's Gavel 226
+main_hand=",id=183449,enchant_id=6229,bonus_id=7229/1498/6646"
+# Sinful Gladiator's Redoubt 226
+off_hand=",id=183438,bonus_id=6652/7135/1498/6646"
+talents="2311132"
+soulbind="bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+covenant="necrolord"
+
+### Combo 2
+# Sinful Gladiator's Chain Helm 226
+profileset."Combo 2"+="head=,id=175902,gem_id=173127,bonus_id=6634/1498/6646/6935"
+# Sinful Gladiator's Necklace 226
+profileset."Combo 2"+="neck=,id=175922,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Chain Monnion 226
+profileset."Combo 2"+="shoulder=,id=175911,bonus_id=6652/6623/1498/6646"
+# Decadent Nathrian Shawl 226
+profileset."Combo 2"+="back=,id=184778,enchant_id=6203,bonus_id=7187/6652/1498/6646"
+# Consumptive Chainmail Carapace 226
+profileset."Combo 2"+="chest=,id=183000,enchant_id=6230,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Bracers 226
+profileset."Combo 2"+="wrist=,id=178384,enchant_id=6220,gem_id=173127,bonus_id=6621/6652/1498/6646/6935"
+# Oathsworn Soldier's Gauntlets 233
+profileset."Combo 2"+="hands=,id=182991,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Belt 226
+profileset."Combo 2"+="waist=,id=175914,gem_id=173128,bonus_id=6623/6652/1498/6646/6935"
+# Lichbone Legguards 226
+profileset."Combo 2"+="legs=,id=178778,bonus_id=7214/6652/1501/5884/6646"
+# Windspeaker's Lava Resurgence 235
+profileset."Combo 2"+="feet=,id=172323,enchant_id=6207,bonus_id=6992/6649/6650/6758/1532"
+# Ardent Sunstar Signet 226
+profileset."Combo 2"+="finger1=,id=183035,enchant_id=6166,gem_id=168638,bonus_id=7187/6652/6935/1498/6646"
+# Sinful Gladiator's Ring 226
+profileset."Combo 2"+="finger2=,id=175916,enchant_id=6166,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Badge of Ferocity 226
+profileset."Combo 2"+="trinket1=,id=175921,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Insignia of Alacrity 226
+profileset."Combo 2"+="trinket2=,id=178386,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Gavel 226
+profileset."Combo 2"+="main_hand=,id=183449,enchant_id=6229,bonus_id=7229/1498/6646"
+# Sinful Gladiator's Redoubt 226
+profileset."Combo 2"+="off_hand=,id=183438,bonus_id=6652/7135/1498/6646"
+profileset."Combo 2"+="talents=2111122"
+profileset."Combo 2"+="soulbind=bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+profileset."Combo 2"+="covenant=necrolord"
+
+### Combo 3
+# Sinful Gladiator's Chain Helm 226
+profileset."Combo 3"+="head=,id=175902,gem_id=173127,bonus_id=6634/1498/6646/6935"
+# Sinful Gladiator's Necklace 226
+profileset."Combo 3"+="neck=,id=175922,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Chain Monnion 226
+profileset."Combo 3"+="shoulder=,id=175911,bonus_id=6652/6623/1498/6646"
+# Decadent Nathrian Shawl 226
+profileset."Combo 3"+="back=,id=184778,enchant_id=6203,bonus_id=7187/6652/1498/6646"
+# Consumptive Chainmail Carapace 226
+profileset."Combo 3"+="chest=,id=183000,enchant_id=6230,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Bracers 226
+profileset."Combo 3"+="wrist=,id=178384,enchant_id=6220,gem_id=173127,bonus_id=6621/6652/1498/6646/6935"
+# Oathsworn Soldier's Gauntlets 233
+profileset."Combo 3"+="hands=,id=182991,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Belt 226
+profileset."Combo 3"+="waist=,id=175914,gem_id=173128,bonus_id=6623/6652/1498/6646/6935"
+# Lichbone Legguards 226
+profileset."Combo 3"+="legs=,id=178778,bonus_id=7214/6652/1501/5884/6646"
+# Windspeaker's Lava Resurgence 235
+profileset."Combo 3"+="feet=,id=172323,enchant_id=6207,bonus_id=6992/6649/6650/6758/1532"
+# Ardent Sunstar Signet 226
+profileset."Combo 3"+="finger1=,id=183035,enchant_id=6166,gem_id=168638,bonus_id=7187/6652/6935/1498/6646"
+# Sinful Gladiator's Ring 226
+profileset."Combo 3"+="finger2=,id=175916,enchant_id=6166,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Badge of Ferocity 226
+profileset."Combo 3"+="trinket1=,id=175921,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Insignia of Alacrity 226
+profileset."Combo 3"+="trinket2=,id=178386,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Gavel 226
+profileset."Combo 3"+="main_hand=,id=183449,enchant_id=6229,bonus_id=7229/1498/6646"
+# Sinful Gladiator's Redoubt 226
+profileset."Combo 3"+="off_hand=,id=183438,bonus_id=6652/7135/1498/6646"
+profileset."Combo 3"+="talents=2211122"
+profileset."Combo 3"+="soulbind=bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+profileset."Combo 3"+="covenant=necrolord"
+
+### Combo 4
+# Sinful Gladiator's Chain Helm 226
+profileset."Combo 4"+="head=,id=175902,gem_id=173127,bonus_id=6634/1498/6646/6935"
+# Sinful Gladiator's Necklace 226
+profileset."Combo 4"+="neck=,id=175922,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Chain Monnion 226
+profileset."Combo 4"+="shoulder=,id=175911,bonus_id=6652/6623/1498/6646"
+# Decadent Nathrian Shawl 226
+profileset."Combo 4"+="back=,id=184778,enchant_id=6203,bonus_id=7187/6652/1498/6646"
+# Consumptive Chainmail Carapace 226
+profileset."Combo 4"+="chest=,id=183000,enchant_id=6230,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Bracers 226
+profileset."Combo 4"+="wrist=,id=178384,enchant_id=6220,gem_id=173127,bonus_id=6621/6652/1498/6646/6935"
+# Oathsworn Soldier's Gauntlets 233
+profileset."Combo 4"+="hands=,id=182991,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Belt 226
+profileset."Combo 4"+="waist=,id=175914,gem_id=173128,bonus_id=6623/6652/1498/6646/6935"
+# Lichbone Legguards 226
+profileset."Combo 4"+="legs=,id=178778,bonus_id=7214/6652/1501/5884/6646"
+# Windspeaker's Lava Resurgence 235
+profileset."Combo 4"+="feet=,id=172323,enchant_id=6207,bonus_id=6992/6649/6650/6758/1532"
+# Ardent Sunstar Signet 226
+profileset."Combo 4"+="finger1=,id=183035,enchant_id=6166,gem_id=168638,bonus_id=7187/6652/6935/1498/6646"
+# Sinful Gladiator's Ring 226
+profileset."Combo 4"+="finger2=,id=175916,enchant_id=6166,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Badge of Ferocity 226
+profileset."Combo 4"+="trinket1=,id=175921,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Insignia of Alacrity 226
+profileset."Combo 4"+="trinket2=,id=178386,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Gavel 226
+profileset."Combo 4"+="main_hand=,id=183449,enchant_id=6229,bonus_id=7229/1498/6646"
+# Sinful Gladiator's Redoubt 226
+profileset."Combo 4"+="off_hand=,id=183438,bonus_id=6652/7135/1498/6646"
+profileset."Combo 4"+="talents=2311122"
+profileset."Combo 4"+="soulbind=bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+profileset."Combo 4"+="covenant=necrolord"
+
+### Combo 5
+# Sinful Gladiator's Chain Helm 226
+profileset."Combo 5"+="head=,id=175902,gem_id=173127,bonus_id=6634/1498/6646/6935"
+# Sinful Gladiator's Necklace 226
+profileset."Combo 5"+="neck=,id=175922,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Chain Monnion 226
+profileset."Combo 5"+="shoulder=,id=175911,bonus_id=6652/6623/1498/6646"
+# Decadent Nathrian Shawl 226
+profileset."Combo 5"+="back=,id=184778,enchant_id=6203,bonus_id=7187/6652/1498/6646"
+# Consumptive Chainmail Carapace 226
+profileset."Combo 5"+="chest=,id=183000,enchant_id=6230,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Bracers 226
+profileset."Combo 5"+="wrist=,id=178384,enchant_id=6220,gem_id=173127,bonus_id=6621/6652/1498/6646/6935"
+# Oathsworn Soldier's Gauntlets 233
+profileset."Combo 5"+="hands=,id=182991,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Belt 226
+profileset."Combo 5"+="waist=,id=175914,gem_id=173128,bonus_id=6623/6652/1498/6646/6935"
+# Lichbone Legguards 226
+profileset."Combo 5"+="legs=,id=178778,bonus_id=7214/6652/1501/5884/6646"
+# Windspeaker's Lava Resurgence 235
+profileset."Combo 5"+="feet=,id=172323,enchant_id=6207,bonus_id=6992/6649/6650/6758/1532"
+# Ardent Sunstar Signet 226
+profileset."Combo 5"+="finger1=,id=183035,enchant_id=6166,gem_id=168638,bonus_id=7187/6652/6935/1498/6646"
+# Sinful Gladiator's Ring 226
+profileset."Combo 5"+="finger2=,id=175916,enchant_id=6166,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Badge of Ferocity 226
+profileset."Combo 5"+="trinket1=,id=175921,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Insignia of Alacrity 226
+profileset."Combo 5"+="trinket2=,id=178386,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Gavel 226
+profileset."Combo 5"+="main_hand=,id=183449,enchant_id=6229,bonus_id=7229/1498/6646"
+# Sinful Gladiator's Redoubt 226
+profileset."Combo 5"+="off_hand=,id=183438,bonus_id=6652/7135/1498/6646"
+profileset."Combo 5"+="talents=2112122"
+profileset."Combo 5"+="soulbind=bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+profileset."Combo 5"+="covenant=necrolord"
+
+### Combo 6
+# Sinful Gladiator's Chain Helm 226
+profileset."Combo 6"+="head=,id=175902,gem_id=173127,bonus_id=6634/1498/6646/6935"
+# Sinful Gladiator's Necklace 226
+profileset."Combo 6"+="neck=,id=175922,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Chain Monnion 226
+profileset."Combo 6"+="shoulder=,id=175911,bonus_id=6652/6623/1498/6646"
+# Decadent Nathrian Shawl 226
+profileset."Combo 6"+="back=,id=184778,enchant_id=6203,bonus_id=7187/6652/1498/6646"
+# Consumptive Chainmail Carapace 226
+profileset."Combo 6"+="chest=,id=183000,enchant_id=6230,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Bracers 226
+profileset."Combo 6"+="wrist=,id=178384,enchant_id=6220,gem_id=173127,bonus_id=6621/6652/1498/6646/6935"
+# Oathsworn Soldier's Gauntlets 233
+profileset."Combo 6"+="hands=,id=182991,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Belt 226
+profileset."Combo 6"+="waist=,id=175914,gem_id=173128,bonus_id=6623/6652/1498/6646/6935"
+# Lichbone Legguards 226
+profileset."Combo 6"+="legs=,id=178778,bonus_id=7214/6652/1501/5884/6646"
+# Windspeaker's Lava Resurgence 235
+profileset."Combo 6"+="feet=,id=172323,enchant_id=6207,bonus_id=6992/6649/6650/6758/1532"
+# Ardent Sunstar Signet 226
+profileset."Combo 6"+="finger1=,id=183035,enchant_id=6166,gem_id=168638,bonus_id=7187/6652/6935/1498/6646"
+# Sinful Gladiator's Ring 226
+profileset."Combo 6"+="finger2=,id=175916,enchant_id=6166,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Badge of Ferocity 226
+profileset."Combo 6"+="trinket1=,id=175921,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Insignia of Alacrity 226
+profileset."Combo 6"+="trinket2=,id=178386,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Gavel 226
+profileset."Combo 6"+="main_hand=,id=183449,enchant_id=6229,bonus_id=7229/1498/6646"
+# Sinful Gladiator's Redoubt 226
+profileset."Combo 6"+="off_hand=,id=183438,bonus_id=6652/7135/1498/6646"
+profileset."Combo 6"+="talents=2212122"
+profileset."Combo 6"+="soulbind=bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+profileset."Combo 6"+="covenant=necrolord"
+
+### Combo 7
+# Sinful Gladiator's Chain Helm 226
+profileset."Combo 7"+="head=,id=175902,gem_id=173127,bonus_id=6634/1498/6646/6935"
+# Sinful Gladiator's Necklace 226
+profileset."Combo 7"+="neck=,id=175922,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Chain Monnion 226
+profileset."Combo 7"+="shoulder=,id=175911,bonus_id=6652/6623/1498/6646"
+# Decadent Nathrian Shawl 226
+profileset."Combo 7"+="back=,id=184778,enchant_id=6203,bonus_id=7187/6652/1498/6646"
+# Consumptive Chainmail Carapace 226
+profileset."Combo 7"+="chest=,id=183000,enchant_id=6230,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Bracers 226
+profileset."Combo 7"+="wrist=,id=178384,enchant_id=6220,gem_id=173127,bonus_id=6621/6652/1498/6646/6935"
+# Oathsworn Soldier's Gauntlets 233
+profileset."Combo 7"+="hands=,id=182991,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Belt 226
+profileset."Combo 7"+="waist=,id=175914,gem_id=173128,bonus_id=6623/6652/1498/6646/6935"
+# Lichbone Legguards 226
+profileset."Combo 7"+="legs=,id=178778,bonus_id=7214/6652/1501/5884/6646"
+# Windspeaker's Lava Resurgence 235
+profileset."Combo 7"+="feet=,id=172323,enchant_id=6207,bonus_id=6992/6649/6650/6758/1532"
+# Ardent Sunstar Signet 226
+profileset."Combo 7"+="finger1=,id=183035,enchant_id=6166,gem_id=168638,bonus_id=7187/6652/6935/1498/6646"
+# Sinful Gladiator's Ring 226
+profileset."Combo 7"+="finger2=,id=175916,enchant_id=6166,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Badge of Ferocity 226
+profileset."Combo 7"+="trinket1=,id=175921,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Insignia of Alacrity 226
+profileset."Combo 7"+="trinket2=,id=178386,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Gavel 226
+profileset."Combo 7"+="main_hand=,id=183449,enchant_id=6229,bonus_id=7229/1498/6646"
+# Sinful Gladiator's Redoubt 226
+profileset."Combo 7"+="off_hand=,id=183438,bonus_id=6652/7135/1498/6646"
+profileset."Combo 7"+="talents=2312122"
+profileset."Combo 7"+="soulbind=bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+profileset."Combo 7"+="covenant=necrolord"
+
+### Combo 8
+# Sinful Gladiator's Chain Helm 226
+profileset."Combo 8"+="head=,id=175902,gem_id=173127,bonus_id=6634/1498/6646/6935"
+# Sinful Gladiator's Necklace 226
+profileset."Combo 8"+="neck=,id=175922,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Chain Monnion 226
+profileset."Combo 8"+="shoulder=,id=175911,bonus_id=6652/6623/1498/6646"
+# Decadent Nathrian Shawl 226
+profileset."Combo 8"+="back=,id=184778,enchant_id=6203,bonus_id=7187/6652/1498/6646"
+# Consumptive Chainmail Carapace 226
+profileset."Combo 8"+="chest=,id=183000,enchant_id=6230,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Bracers 226
+profileset."Combo 8"+="wrist=,id=178384,enchant_id=6220,gem_id=173127,bonus_id=6621/6652/1498/6646/6935"
+# Oathsworn Soldier's Gauntlets 233
+profileset."Combo 8"+="hands=,id=182991,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Belt 226
+profileset."Combo 8"+="waist=,id=175914,gem_id=173128,bonus_id=6623/6652/1498/6646/6935"
+# Lichbone Legguards 226
+profileset."Combo 8"+="legs=,id=178778,bonus_id=7214/6652/1501/5884/6646"
+# Legionnaire's Bloodstained Sabatons 226
+profileset."Combo 8"+="feet=,id=182990,enchant_id=6207,bonus_id=7187/6652/1498/6646"
+# Ardent Sunstar Signet 226
+profileset."Combo 8"+="finger1=,id=183035,enchant_id=6166,gem_id=168638,bonus_id=7187/6652/6935/1498/6646"
+# Sinful Gladiator's Ring 226
+profileset."Combo 8"+="finger2=,id=175916,enchant_id=6166,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Badge of Ferocity 226
+profileset."Combo 8"+="trinket1=,id=175921,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Insignia of Alacrity 226
+profileset."Combo 8"+="trinket2=,id=178386,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Gavel 226
+profileset."Combo 8"+="main_hand=,id=183449,enchant_id=6229,bonus_id=7229/1498/6646"
+# Sinful Gladiator's Redoubt 226
+profileset."Combo 8"+="off_hand=,id=183438,bonus_id=6652/7135/1498/6646"
+profileset."Combo 8"+="talents=2111122"
+profileset."Combo 8"+="soulbind=bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+profileset."Combo 8"+="covenant=necrolord"
+
+### Combo 9
+# Sinful Gladiator's Chain Helm 226
+profileset."Combo 9"+="head=,id=175902,gem_id=173127,bonus_id=6634/1498/6646/6935"
+# Sinful Gladiator's Necklace 226
+profileset."Combo 9"+="neck=,id=175922,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Chain Monnion 226
+profileset."Combo 9"+="shoulder=,id=175911,bonus_id=6652/6623/1498/6646"
+# Decadent Nathrian Shawl 226
+profileset."Combo 9"+="back=,id=184778,enchant_id=6203,bonus_id=7187/6652/1498/6646"
+# Consumptive Chainmail Carapace 226
+profileset."Combo 9"+="chest=,id=183000,enchant_id=6230,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Bracers 226
+profileset."Combo 9"+="wrist=,id=178384,enchant_id=6220,gem_id=173127,bonus_id=6621/6652/1498/6646/6935"
+# Oathsworn Soldier's Gauntlets 233
+profileset."Combo 9"+="hands=,id=182991,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Belt 226
+profileset."Combo 9"+="waist=,id=175914,gem_id=173128,bonus_id=6623/6652/1498/6646/6935"
+# Lichbone Legguards 226
+profileset."Combo 9"+="legs=,id=178778,bonus_id=7214/6652/1501/5884/6646"
+# Legionnaire's Bloodstained Sabatons 226
+profileset."Combo 9"+="feet=,id=182990,enchant_id=6207,bonus_id=7187/6652/1498/6646"
+# Ardent Sunstar Signet 226
+profileset."Combo 9"+="finger1=,id=183035,enchant_id=6166,gem_id=168638,bonus_id=7187/6652/6935/1498/6646"
+# Sinful Gladiator's Ring 226
+profileset."Combo 9"+="finger2=,id=175916,enchant_id=6166,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Badge of Ferocity 226
+profileset."Combo 9"+="trinket1=,id=175921,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Insignia of Alacrity 226
+profileset."Combo 9"+="trinket2=,id=178386,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Gavel 226
+profileset."Combo 9"+="main_hand=,id=183449,enchant_id=6229,bonus_id=7229/1498/6646"
+# Sinful Gladiator's Redoubt 226
+profileset."Combo 9"+="off_hand=,id=183438,bonus_id=6652/7135/1498/6646"
+profileset."Combo 9"+="talents=2211122"
+profileset."Combo 9"+="soulbind=bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+profileset."Combo 9"+="covenant=necrolord"
+
+### Combo 10
+# Sinful Gladiator's Chain Helm 226
+profileset."Combo 10"+="head=,id=175902,gem_id=173127,bonus_id=6634/1498/6646/6935"
+# Sinful Gladiator's Necklace 226
+profileset."Combo 10"+="neck=,id=175922,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Chain Monnion 226
+profileset."Combo 10"+="shoulder=,id=175911,bonus_id=6652/6623/1498/6646"
+# Decadent Nathrian Shawl 226
+profileset."Combo 10"+="back=,id=184778,enchant_id=6203,bonus_id=7187/6652/1498/6646"
+# Consumptive Chainmail Carapace 226
+profileset."Combo 10"+="chest=,id=183000,enchant_id=6230,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Bracers 226
+profileset."Combo 10"+="wrist=,id=178384,enchant_id=6220,gem_id=173127,bonus_id=6621/6652/1498/6646/6935"
+# Oathsworn Soldier's Gauntlets 233
+profileset."Combo 10"+="hands=,id=182991,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Belt 226
+profileset."Combo 10"+="waist=,id=175914,gem_id=173128,bonus_id=6623/6652/1498/6646/6935"
+# Lichbone Legguards 226
+profileset."Combo 10"+="legs=,id=178778,bonus_id=7214/6652/1501/5884/6646"
+# Legionnaire's Bloodstained Sabatons 226
+profileset."Combo 10"+="feet=,id=182990,enchant_id=6207,bonus_id=7187/6652/1498/6646"
+# Ardent Sunstar Signet 226
+profileset."Combo 10"+="finger1=,id=183035,enchant_id=6166,gem_id=168638,bonus_id=7187/6652/6935/1498/6646"
+# Sinful Gladiator's Ring 226
+profileset."Combo 10"+="finger2=,id=175916,enchant_id=6166,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Badge of Ferocity 226
+profileset."Combo 10"+="trinket1=,id=175921,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Insignia of Alacrity 226
+profileset."Combo 10"+="trinket2=,id=178386,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Gavel 226
+profileset."Combo 10"+="main_hand=,id=183449,enchant_id=6229,bonus_id=7229/1498/6646"
+# Sinful Gladiator's Redoubt 226
+profileset."Combo 10"+="off_hand=,id=183438,bonus_id=6652/7135/1498/6646"
+profileset."Combo 10"+="talents=2311122"
+profileset."Combo 10"+="soulbind=bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+profileset."Combo 10"+="covenant=necrolord"
+
+### Combo 11
+# Sinful Gladiator's Chain Helm 226
+profileset."Combo 11"+="head=,id=175902,gem_id=173127,bonus_id=6634/1498/6646/6935"
+# Sinful Gladiator's Necklace 226
+profileset."Combo 11"+="neck=,id=175922,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Chain Monnion 226
+profileset."Combo 11"+="shoulder=,id=175911,bonus_id=6652/6623/1498/6646"
+# Decadent Nathrian Shawl 226
+profileset."Combo 11"+="back=,id=184778,enchant_id=6203,bonus_id=7187/6652/1498/6646"
+# Consumptive Chainmail Carapace 226
+profileset."Combo 11"+="chest=,id=183000,enchant_id=6230,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Bracers 226
+profileset."Combo 11"+="wrist=,id=178384,enchant_id=6220,gem_id=173127,bonus_id=6621/6652/1498/6646/6935"
+# Oathsworn Soldier's Gauntlets 233
+profileset."Combo 11"+="hands=,id=182991,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Belt 226
+profileset."Combo 11"+="waist=,id=175914,gem_id=173128,bonus_id=6623/6652/1498/6646/6935"
+# Lichbone Legguards 226
+profileset."Combo 11"+="legs=,id=178778,bonus_id=7214/6652/1501/5884/6646"
+# Legionnaire's Bloodstained Sabatons 226
+profileset."Combo 11"+="feet=,id=182990,enchant_id=6207,bonus_id=7187/6652/1498/6646"
+# Ardent Sunstar Signet 226
+profileset."Combo 11"+="finger1=,id=183035,enchant_id=6166,gem_id=168638,bonus_id=7187/6652/6935/1498/6646"
+# Sinful Gladiator's Ring 226
+profileset."Combo 11"+="finger2=,id=175916,enchant_id=6166,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Badge of Ferocity 226
+profileset."Combo 11"+="trinket1=,id=175921,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Insignia of Alacrity 226
+profileset."Combo 11"+="trinket2=,id=178386,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Gavel 226
+profileset."Combo 11"+="main_hand=,id=183449,enchant_id=6229,bonus_id=7229/1498/6646"
+# Sinful Gladiator's Redoubt 226
+profileset."Combo 11"+="off_hand=,id=183438,bonus_id=6652/7135/1498/6646"
+profileset."Combo 11"+="talents=2112122"
+profileset."Combo 11"+="soulbind=bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+profileset."Combo 11"+="covenant=necrolord"
+
+### Combo 12
+# Sinful Gladiator's Chain Helm 226
+profileset."Combo 12"+="head=,id=175902,gem_id=173127,bonus_id=6634/1498/6646/6935"
+# Sinful Gladiator's Necklace 226
+profileset."Combo 12"+="neck=,id=175922,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Chain Monnion 226
+profileset."Combo 12"+="shoulder=,id=175911,bonus_id=6652/6623/1498/6646"
+# Decadent Nathrian Shawl 226
+profileset."Combo 12"+="back=,id=184778,enchant_id=6203,bonus_id=7187/6652/1498/6646"
+# Consumptive Chainmail Carapace 226
+profileset."Combo 12"+="chest=,id=183000,enchant_id=6230,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Bracers 226
+profileset."Combo 12"+="wrist=,id=178384,enchant_id=6220,gem_id=173127,bonus_id=6621/6652/1498/6646/6935"
+# Oathsworn Soldier's Gauntlets 233
+profileset."Combo 12"+="hands=,id=182991,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Belt 226
+profileset."Combo 12"+="waist=,id=175914,gem_id=173128,bonus_id=6623/6652/1498/6646/6935"
+# Lichbone Legguards 226
+profileset."Combo 12"+="legs=,id=178778,bonus_id=7214/6652/1501/5884/6646"
+# Legionnaire's Bloodstained Sabatons 226
+profileset."Combo 12"+="feet=,id=182990,enchant_id=6207,bonus_id=7187/6652/1498/6646"
+# Ardent Sunstar Signet 226
+profileset."Combo 12"+="finger1=,id=183035,enchant_id=6166,gem_id=168638,bonus_id=7187/6652/6935/1498/6646"
+# Sinful Gladiator's Ring 226
+profileset."Combo 12"+="finger2=,id=175916,enchant_id=6166,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Badge of Ferocity 226
+profileset."Combo 12"+="trinket1=,id=175921,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Insignia of Alacrity 226
+profileset."Combo 12"+="trinket2=,id=178386,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Gavel 226
+profileset."Combo 12"+="main_hand=,id=183449,enchant_id=6229,bonus_id=7229/1498/6646"
+# Sinful Gladiator's Redoubt 226
+profileset."Combo 12"+="off_hand=,id=183438,bonus_id=6652/7135/1498/6646"
+profileset."Combo 12"+="talents=2212122"
+profileset."Combo 12"+="soulbind=bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+profileset."Combo 12"+="covenant=necrolord"
+
+### Combo 13
+# Sinful Gladiator's Chain Helm 226
+profileset."Combo 13"+="head=,id=175902,gem_id=173127,bonus_id=6634/1498/6646/6935"
+# Sinful Gladiator's Necklace 226
+profileset."Combo 13"+="neck=,id=175922,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Chain Monnion 226
+profileset."Combo 13"+="shoulder=,id=175911,bonus_id=6652/6623/1498/6646"
+# Decadent Nathrian Shawl 226
+profileset."Combo 13"+="back=,id=184778,enchant_id=6203,bonus_id=7187/6652/1498/6646"
+# Consumptive Chainmail Carapace 226
+profileset."Combo 13"+="chest=,id=183000,enchant_id=6230,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Bracers 226
+profileset."Combo 13"+="wrist=,id=178384,enchant_id=6220,gem_id=173127,bonus_id=6621/6652/1498/6646/6935"
+# Oathsworn Soldier's Gauntlets 233
+profileset."Combo 13"+="hands=,id=182991,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Belt 226
+profileset."Combo 13"+="waist=,id=175914,gem_id=173128,bonus_id=6623/6652/1498/6646/6935"
+# Lichbone Legguards 226
+profileset."Combo 13"+="legs=,id=178778,bonus_id=7214/6652/1501/5884/6646"
+# Legionnaire's Bloodstained Sabatons 226
+profileset."Combo 13"+="feet=,id=182990,enchant_id=6207,bonus_id=7187/6652/1498/6646"
+# Ardent Sunstar Signet 226
+profileset."Combo 13"+="finger1=,id=183035,enchant_id=6166,gem_id=168638,bonus_id=7187/6652/6935/1498/6646"
+# Sinful Gladiator's Ring 226
+profileset."Combo 13"+="finger2=,id=175916,enchant_id=6166,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Badge of Ferocity 226
+profileset."Combo 13"+="trinket1=,id=175921,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Insignia of Alacrity 226
+profileset."Combo 13"+="trinket2=,id=178386,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Gavel 226
+profileset."Combo 13"+="main_hand=,id=183449,enchant_id=6229,bonus_id=7229/1498/6646"
+# Sinful Gladiator's Redoubt 226
+profileset."Combo 13"+="off_hand=,id=183438,bonus_id=6652/7135/1498/6646"
+profileset."Combo 13"+="talents=2312122"
+profileset."Combo 13"+="soulbind=bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+profileset."Combo 13"+="covenant=necrolord"
+
+### Combo 14
+# Sinful Gladiator's Chain Helm 226
+profileset."Combo 14"+="head=,id=175902,gem_id=173127,bonus_id=6634/1498/6646/6935"
+# Sinful Gladiator's Necklace 226
+profileset."Combo 14"+="neck=,id=175922,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Chain Monnion 226
+profileset."Combo 14"+="shoulder=,id=175911,bonus_id=6652/6623/1498/6646"
+# Decadent Nathrian Shawl 226
+profileset."Combo 14"+="back=,id=184778,enchant_id=6203,bonus_id=7187/6652/1498/6646"
+# Skybreaker's Fiery Demise 235
+profileset."Combo 14"+="chest=,id=172322,bonus_id=6716/6989/6647/6649/1532,enchant_id=6230"
+# Sinful Gladiator's Chain Bracers 226
+profileset."Combo 14"+="wrist=,id=178384,enchant_id=6220,gem_id=173127,bonus_id=6621/6652/1498/6646/6935"
+# Oathsworn Soldier's Gauntlets 233
+profileset."Combo 14"+="hands=,id=182991,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Belt 226
+profileset."Combo 14"+="waist=,id=175914,gem_id=173128,bonus_id=6623/6652/1498/6646/6935"
+# Lichbone Legguards 226
+profileset."Combo 14"+="legs=,id=178778,bonus_id=7214/6652/1501/5884/6646"
+# Legionnaire's Bloodstained Sabatons 226
+profileset."Combo 14"+="feet=,id=182990,enchant_id=6207,bonus_id=7187/6652/1498/6646"
+# Ardent Sunstar Signet 226
+profileset."Combo 14"+="finger1=,id=183035,enchant_id=6166,gem_id=168638,bonus_id=7187/6652/6935/1498/6646"
+# Sinful Gladiator's Ring 226
+profileset."Combo 14"+="finger2=,id=175916,enchant_id=6166,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Badge of Ferocity 226
+profileset."Combo 14"+="trinket1=,id=175921,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Insignia of Alacrity 226
+profileset."Combo 14"+="trinket2=,id=178386,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Gavel 226
+profileset."Combo 14"+="main_hand=,id=183449,enchant_id=6229,bonus_id=7229/1498/6646"
+# Sinful Gladiator's Redoubt 226
+profileset."Combo 14"+="off_hand=,id=183438,bonus_id=6652/7135/1498/6646"
+profileset."Combo 14"+="talents=2111122"
+profileset."Combo 14"+="soulbind=bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+profileset."Combo 14"+="covenant=necrolord"
+
+### Combo 15
+# Sinful Gladiator's Chain Helm 226
+profileset."Combo 15"+="head=,id=175902,gem_id=173127,bonus_id=6634/1498/6646/6935"
+# Sinful Gladiator's Necklace 226
+profileset."Combo 15"+="neck=,id=175922,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Chain Monnion 226
+profileset."Combo 15"+="shoulder=,id=175911,bonus_id=6652/6623/1498/6646"
+# Decadent Nathrian Shawl 226
+profileset."Combo 15"+="back=,id=184778,enchant_id=6203,bonus_id=7187/6652/1498/6646"
+# Skybreaker's Fiery Demise 235
+profileset."Combo 15"+="chest=,id=172322,bonus_id=6716/6989/6647/6649/1532,enchant_id=6230"
+# Sinful Gladiator's Chain Bracers 226
+profileset."Combo 15"+="wrist=,id=178384,enchant_id=6220,gem_id=173127,bonus_id=6621/6652/1498/6646/6935"
+# Oathsworn Soldier's Gauntlets 233
+profileset."Combo 15"+="hands=,id=182991,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Belt 226
+profileset."Combo 15"+="waist=,id=175914,gem_id=173128,bonus_id=6623/6652/1498/6646/6935"
+# Lichbone Legguards 226
+profileset."Combo 15"+="legs=,id=178778,bonus_id=7214/6652/1501/5884/6646"
+# Legionnaire's Bloodstained Sabatons 226
+profileset."Combo 15"+="feet=,id=182990,enchant_id=6207,bonus_id=7187/6652/1498/6646"
+# Ardent Sunstar Signet 226
+profileset."Combo 15"+="finger1=,id=183035,enchant_id=6166,gem_id=168638,bonus_id=7187/6652/6935/1498/6646"
+# Sinful Gladiator's Ring 226
+profileset."Combo 15"+="finger2=,id=175916,enchant_id=6166,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Badge of Ferocity 226
+profileset."Combo 15"+="trinket1=,id=175921,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Insignia of Alacrity 226
+profileset."Combo 15"+="trinket2=,id=178386,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Gavel 226
+profileset."Combo 15"+="main_hand=,id=183449,enchant_id=6229,bonus_id=7229/1498/6646"
+# Sinful Gladiator's Redoubt 226
+profileset."Combo 15"+="off_hand=,id=183438,bonus_id=6652/7135/1498/6646"
+profileset."Combo 15"+="talents=2211122"
+profileset."Combo 15"+="soulbind=bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+profileset."Combo 15"+="covenant=necrolord"
+
+### Combo 16
+# Sinful Gladiator's Chain Helm 226
+profileset."Combo 16"+="head=,id=175902,gem_id=173127,bonus_id=6634/1498/6646/6935"
+# Sinful Gladiator's Necklace 226
+profileset."Combo 16"+="neck=,id=175922,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Chain Monnion 226
+profileset."Combo 16"+="shoulder=,id=175911,bonus_id=6652/6623/1498/6646"
+# Decadent Nathrian Shawl 226
+profileset."Combo 16"+="back=,id=184778,enchant_id=6203,bonus_id=7187/6652/1498/6646"
+# Skybreaker's Fiery Demise 235
+profileset."Combo 16"+="chest=,id=172322,bonus_id=6716/6989/6647/6649/1532,enchant_id=6230"
+# Sinful Gladiator's Chain Bracers 226
+profileset."Combo 16"+="wrist=,id=178384,enchant_id=6220,gem_id=173127,bonus_id=6621/6652/1498/6646/6935"
+# Oathsworn Soldier's Gauntlets 233
+profileset."Combo 16"+="hands=,id=182991,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Belt 226
+profileset."Combo 16"+="waist=,id=175914,gem_id=173128,bonus_id=6623/6652/1498/6646/6935"
+# Lichbone Legguards 226
+profileset."Combo 16"+="legs=,id=178778,bonus_id=7214/6652/1501/5884/6646"
+# Legionnaire's Bloodstained Sabatons 226
+profileset."Combo 16"+="feet=,id=182990,enchant_id=6207,bonus_id=7187/6652/1498/6646"
+# Ardent Sunstar Signet 226
+profileset."Combo 16"+="finger1=,id=183035,enchant_id=6166,gem_id=168638,bonus_id=7187/6652/6935/1498/6646"
+# Sinful Gladiator's Ring 226
+profileset."Combo 16"+="finger2=,id=175916,enchant_id=6166,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Badge of Ferocity 226
+profileset."Combo 16"+="trinket1=,id=175921,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Insignia of Alacrity 226
+profileset."Combo 16"+="trinket2=,id=178386,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Gavel 226
+profileset."Combo 16"+="main_hand=,id=183449,enchant_id=6229,bonus_id=7229/1498/6646"
+# Sinful Gladiator's Redoubt 226
+profileset."Combo 16"+="off_hand=,id=183438,bonus_id=6652/7135/1498/6646"
+profileset."Combo 16"+="talents=2311122"
+profileset."Combo 16"+="soulbind=bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+profileset."Combo 16"+="covenant=necrolord"
+
+### Combo 17
+# Sinful Gladiator's Chain Helm 226
+profileset."Combo 17"+="head=,id=175902,gem_id=173127,bonus_id=6634/1498/6646/6935"
+# Sinful Gladiator's Necklace 226
+profileset."Combo 17"+="neck=,id=175922,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Chain Monnion 226
+profileset."Combo 17"+="shoulder=,id=175911,bonus_id=6652/6623/1498/6646"
+# Decadent Nathrian Shawl 226
+profileset."Combo 17"+="back=,id=184778,enchant_id=6203,bonus_id=7187/6652/1498/6646"
+# Skybreaker's Fiery Demise 235
+profileset."Combo 17"+="chest=,id=172322,bonus_id=6716/6989/6647/6649/1532,enchant_id=6230"
+# Sinful Gladiator's Chain Bracers 226
+profileset."Combo 17"+="wrist=,id=178384,enchant_id=6220,gem_id=173127,bonus_id=6621/6652/1498/6646/6935"
+# Oathsworn Soldier's Gauntlets 233
+profileset."Combo 17"+="hands=,id=182991,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Belt 226
+profileset."Combo 17"+="waist=,id=175914,gem_id=173128,bonus_id=6623/6652/1498/6646/6935"
+# Lichbone Legguards 226
+profileset."Combo 17"+="legs=,id=178778,bonus_id=7214/6652/1501/5884/6646"
+# Legionnaire's Bloodstained Sabatons 226
+profileset."Combo 17"+="feet=,id=182990,enchant_id=6207,bonus_id=7187/6652/1498/6646"
+# Ardent Sunstar Signet 226
+profileset."Combo 17"+="finger1=,id=183035,enchant_id=6166,gem_id=168638,bonus_id=7187/6652/6935/1498/6646"
+# Sinful Gladiator's Ring 226
+profileset."Combo 17"+="finger2=,id=175916,enchant_id=6166,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Badge of Ferocity 226
+profileset."Combo 17"+="trinket1=,id=175921,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Insignia of Alacrity 226
+profileset."Combo 17"+="trinket2=,id=178386,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Gavel 226
+profileset."Combo 17"+="main_hand=,id=183449,enchant_id=6229,bonus_id=7229/1498/6646"
+# Sinful Gladiator's Redoubt 226
+profileset."Combo 17"+="off_hand=,id=183438,bonus_id=6652/7135/1498/6646"
+profileset."Combo 17"+="talents=2112122"
+profileset."Combo 17"+="soulbind=bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+profileset."Combo 17"+="covenant=necrolord"
+
+### Combo 18
+# Sinful Gladiator's Chain Helm 226
+profileset."Combo 18"+="head=,id=175902,gem_id=173127,bonus_id=6634/1498/6646/6935"
+# Sinful Gladiator's Necklace 226
+profileset."Combo 18"+="neck=,id=175922,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Chain Monnion 226
+profileset."Combo 18"+="shoulder=,id=175911,bonus_id=6652/6623/1498/6646"
+# Decadent Nathrian Shawl 226
+profileset."Combo 18"+="back=,id=184778,enchant_id=6203,bonus_id=7187/6652/1498/6646"
+# Skybreaker's Fiery Demise 235
+profileset."Combo 18"+="chest=,id=172322,bonus_id=6716/6989/6647/6649/1532,enchant_id=6230"
+# Sinful Gladiator's Chain Bracers 226
+profileset."Combo 18"+="wrist=,id=178384,enchant_id=6220,gem_id=173127,bonus_id=6621/6652/1498/6646/6935"
+# Oathsworn Soldier's Gauntlets 233
+profileset."Combo 18"+="hands=,id=182991,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Belt 226
+profileset."Combo 18"+="waist=,id=175914,gem_id=173128,bonus_id=6623/6652/1498/6646/6935"
+# Lichbone Legguards 226
+profileset."Combo 18"+="legs=,id=178778,bonus_id=7214/6652/1501/5884/6646"
+# Legionnaire's Bloodstained Sabatons 226
+profileset."Combo 18"+="feet=,id=182990,enchant_id=6207,bonus_id=7187/6652/1498/6646"
+# Ardent Sunstar Signet 226
+profileset."Combo 18"+="finger1=,id=183035,enchant_id=6166,gem_id=168638,bonus_id=7187/6652/6935/1498/6646"
+# Sinful Gladiator's Ring 226
+profileset."Combo 18"+="finger2=,id=175916,enchant_id=6166,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Badge of Ferocity 226
+profileset."Combo 18"+="trinket1=,id=175921,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Insignia of Alacrity 226
+profileset."Combo 18"+="trinket2=,id=178386,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Gavel 226
+profileset."Combo 18"+="main_hand=,id=183449,enchant_id=6229,bonus_id=7229/1498/6646"
+# Sinful Gladiator's Redoubt 226
+profileset."Combo 18"+="off_hand=,id=183438,bonus_id=6652/7135/1498/6646"
+profileset."Combo 18"+="talents=2212122"
+profileset."Combo 18"+="soulbind=bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+profileset."Combo 18"+="covenant=necrolord"
+
+### Combo 19
+# Sinful Gladiator's Chain Helm 226
+profileset."Combo 19"+="head=,id=175902,gem_id=173127,bonus_id=6634/1498/6646/6935"
+# Sinful Gladiator's Necklace 226
+profileset."Combo 19"+="neck=,id=175922,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Chain Monnion 226
+profileset."Combo 19"+="shoulder=,id=175911,bonus_id=6652/6623/1498/6646"
+# Decadent Nathrian Shawl 226
+profileset."Combo 19"+="back=,id=184778,enchant_id=6203,bonus_id=7187/6652/1498/6646"
+# Skybreaker's Fiery Demise 235
+profileset."Combo 19"+="chest=,id=172322,bonus_id=6716/6989/6647/6649/1532,enchant_id=6230"
+# Sinful Gladiator's Chain Bracers 226
+profileset."Combo 19"+="wrist=,id=178384,enchant_id=6220,gem_id=173127,bonus_id=6621/6652/1498/6646/6935"
+# Oathsworn Soldier's Gauntlets 233
+profileset."Combo 19"+="hands=,id=182991,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Belt 226
+profileset."Combo 19"+="waist=,id=175914,gem_id=173128,bonus_id=6623/6652/1498/6646/6935"
+# Lichbone Legguards 226
+profileset."Combo 19"+="legs=,id=178778,bonus_id=7214/6652/1501/5884/6646"
+# Legionnaire's Bloodstained Sabatons 226
+profileset."Combo 19"+="feet=,id=182990,enchant_id=6207,bonus_id=7187/6652/1498/6646"
+# Ardent Sunstar Signet 226
+profileset."Combo 19"+="finger1=,id=183035,enchant_id=6166,gem_id=168638,bonus_id=7187/6652/6935/1498/6646"
+# Sinful Gladiator's Ring 226
+profileset."Combo 19"+="finger2=,id=175916,enchant_id=6166,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Badge of Ferocity 226
+profileset."Combo 19"+="trinket1=,id=175921,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Insignia of Alacrity 226
+profileset."Combo 19"+="trinket2=,id=178386,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Gavel 226
+profileset."Combo 19"+="main_hand=,id=183449,enchant_id=6229,bonus_id=7229/1498/6646"
+# Sinful Gladiator's Redoubt 226
+profileset."Combo 19"+="off_hand=,id=183438,bonus_id=6652/7135/1498/6646"
+profileset."Combo 19"+="talents=2312122"
+profileset."Combo 19"+="soulbind=bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+profileset."Combo 19"+="covenant=necrolord"
+
+### Combo 20
+# Sinful Gladiator's Chain Helm 226
+profileset."Combo 20"+="head=,id=175902,gem_id=173127,bonus_id=6634/1498/6646/6935"
+# Sinful Gladiator's Necklace 226
+profileset."Combo 20"+="neck=,id=175922,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Echoes of the Great Sundering 235
+profileset."Combo 20"+="shoulder=,id=172327,bonus_id=6716/6991/6647/6649/1532"
+# Decadent Nathrian Shawl 226
+profileset."Combo 20"+="back=,id=184778,enchant_id=6203,bonus_id=7187/6652/1498/6646"
+# Consumptive Chainmail Carapace 226
+profileset."Combo 20"+="chest=,id=183000,enchant_id=6230,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Bracers 226
+profileset."Combo 20"+="wrist=,id=178384,enchant_id=6220,gem_id=173127,bonus_id=6621/6652/1498/6646/6935"
+# Oathsworn Soldier's Gauntlets 233
+profileset."Combo 20"+="hands=,id=182991,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Belt 226
+profileset."Combo 20"+="waist=,id=175914,gem_id=173128,bonus_id=6623/6652/1498/6646/6935"
+# Lichbone Legguards 226
+profileset."Combo 20"+="legs=,id=178778,bonus_id=7214/6652/1501/5884/6646"
+# Legionnaire's Bloodstained Sabatons 226
+profileset."Combo 20"+="feet=,id=182990,enchant_id=6207,bonus_id=7187/6652/1498/6646"
+# Ardent Sunstar Signet 226
+profileset."Combo 20"+="finger1=,id=183035,enchant_id=6166,gem_id=168638,bonus_id=7187/6652/6935/1498/6646"
+# Sinful Gladiator's Ring 226
+profileset."Combo 20"+="finger2=,id=175916,enchant_id=6166,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Badge of Ferocity 226
+profileset."Combo 20"+="trinket1=,id=175921,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Insignia of Alacrity 226
+profileset."Combo 20"+="trinket2=,id=178386,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Gavel 226
+profileset."Combo 20"+="main_hand=,id=183449,enchant_id=6229,bonus_id=7229/1498/6646"
+# Sinful Gladiator's Redoubt 226
+profileset."Combo 20"+="off_hand=,id=183438,bonus_id=6652/7135/1498/6646"
+profileset."Combo 20"+="talents=2111122"
+profileset."Combo 20"+="soulbind=bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+profileset."Combo 20"+="covenant=necrolord"
+
+### Combo 21
+# Sinful Gladiator's Chain Helm 226
+profileset."Combo 21"+="head=,id=175902,gem_id=173127,bonus_id=6634/1498/6646/6935"
+# Sinful Gladiator's Necklace 226
+profileset."Combo 21"+="neck=,id=175922,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Echoes of the Great Sundering 235
+profileset."Combo 21"+="shoulder=,id=172327,bonus_id=6716/6991/6647/6649/1532"
+# Decadent Nathrian Shawl 226
+profileset."Combo 21"+="back=,id=184778,enchant_id=6203,bonus_id=7187/6652/1498/6646"
+# Consumptive Chainmail Carapace 226
+profileset."Combo 21"+="chest=,id=183000,enchant_id=6230,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Bracers 226
+profileset."Combo 21"+="wrist=,id=178384,enchant_id=6220,gem_id=173127,bonus_id=6621/6652/1498/6646/6935"
+# Oathsworn Soldier's Gauntlets 233
+profileset."Combo 21"+="hands=,id=182991,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Belt 226
+profileset."Combo 21"+="waist=,id=175914,gem_id=173128,bonus_id=6623/6652/1498/6646/6935"
+# Lichbone Legguards 226
+profileset."Combo 21"+="legs=,id=178778,bonus_id=7214/6652/1501/5884/6646"
+# Legionnaire's Bloodstained Sabatons 226
+profileset."Combo 21"+="feet=,id=182990,enchant_id=6207,bonus_id=7187/6652/1498/6646"
+# Ardent Sunstar Signet 226
+profileset."Combo 21"+="finger1=,id=183035,enchant_id=6166,gem_id=168638,bonus_id=7187/6652/6935/1498/6646"
+# Sinful Gladiator's Ring 226
+profileset."Combo 21"+="finger2=,id=175916,enchant_id=6166,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Badge of Ferocity 226
+profileset."Combo 21"+="trinket1=,id=175921,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Insignia of Alacrity 226
+profileset."Combo 21"+="trinket2=,id=178386,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Gavel 226
+profileset."Combo 21"+="main_hand=,id=183449,enchant_id=6229,bonus_id=7229/1498/6646"
+# Sinful Gladiator's Redoubt 226
+profileset."Combo 21"+="off_hand=,id=183438,bonus_id=6652/7135/1498/6646"
+profileset."Combo 21"+="talents=2211122"
+profileset."Combo 21"+="soulbind=bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+profileset."Combo 21"+="covenant=necrolord"
+
+### Combo 22
+# Sinful Gladiator's Chain Helm 226
+profileset."Combo 22"+="head=,id=175902,gem_id=173127,bonus_id=6634/1498/6646/6935"
+# Sinful Gladiator's Necklace 226
+profileset."Combo 22"+="neck=,id=175922,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Echoes of the Great Sundering 235
+profileset."Combo 22"+="shoulder=,id=172327,bonus_id=6716/6991/6647/6649/1532"
+# Decadent Nathrian Shawl 226
+profileset."Combo 22"+="back=,id=184778,enchant_id=6203,bonus_id=7187/6652/1498/6646"
+# Consumptive Chainmail Carapace 226
+profileset."Combo 22"+="chest=,id=183000,enchant_id=6230,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Bracers 226
+profileset."Combo 22"+="wrist=,id=178384,enchant_id=6220,gem_id=173127,bonus_id=6621/6652/1498/6646/6935"
+# Oathsworn Soldier's Gauntlets 233
+profileset."Combo 22"+="hands=,id=182991,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Belt 226
+profileset."Combo 22"+="waist=,id=175914,gem_id=173128,bonus_id=6623/6652/1498/6646/6935"
+# Lichbone Legguards 226
+profileset."Combo 22"+="legs=,id=178778,bonus_id=7214/6652/1501/5884/6646"
+# Legionnaire's Bloodstained Sabatons 226
+profileset."Combo 22"+="feet=,id=182990,enchant_id=6207,bonus_id=7187/6652/1498/6646"
+# Ardent Sunstar Signet 226
+profileset."Combo 22"+="finger1=,id=183035,enchant_id=6166,gem_id=168638,bonus_id=7187/6652/6935/1498/6646"
+# Sinful Gladiator's Ring 226
+profileset."Combo 22"+="finger2=,id=175916,enchant_id=6166,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Badge of Ferocity 226
+profileset."Combo 22"+="trinket1=,id=175921,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Insignia of Alacrity 226
+profileset."Combo 22"+="trinket2=,id=178386,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Gavel 226
+profileset."Combo 22"+="main_hand=,id=183449,enchant_id=6229,bonus_id=7229/1498/6646"
+# Sinful Gladiator's Redoubt 226
+profileset."Combo 22"+="off_hand=,id=183438,bonus_id=6652/7135/1498/6646"
+profileset."Combo 22"+="talents=2311122"
+profileset."Combo 22"+="soulbind=bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+profileset."Combo 22"+="covenant=necrolord"
+
+### Combo 23
+# Sinful Gladiator's Chain Helm 226
+profileset."Combo 23"+="head=,id=175902,gem_id=173127,bonus_id=6634/1498/6646/6935"
+# Sinful Gladiator's Necklace 226
+profileset."Combo 23"+="neck=,id=175922,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Echoes of the Great Sundering 235
+profileset."Combo 23"+="shoulder=,id=172327,bonus_id=6716/6991/6647/6649/1532"
+# Decadent Nathrian Shawl 226
+profileset."Combo 23"+="back=,id=184778,enchant_id=6203,bonus_id=7187/6652/1498/6646"
+# Consumptive Chainmail Carapace 226
+profileset."Combo 23"+="chest=,id=183000,enchant_id=6230,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Bracers 226
+profileset."Combo 23"+="wrist=,id=178384,enchant_id=6220,gem_id=173127,bonus_id=6621/6652/1498/6646/6935"
+# Oathsworn Soldier's Gauntlets 233
+profileset."Combo 23"+="hands=,id=182991,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Belt 226
+profileset."Combo 23"+="waist=,id=175914,gem_id=173128,bonus_id=6623/6652/1498/6646/6935"
+# Lichbone Legguards 226
+profileset."Combo 23"+="legs=,id=178778,bonus_id=7214/6652/1501/5884/6646"
+# Legionnaire's Bloodstained Sabatons 226
+profileset."Combo 23"+="feet=,id=182990,enchant_id=6207,bonus_id=7187/6652/1498/6646"
+# Ardent Sunstar Signet 226
+profileset."Combo 23"+="finger1=,id=183035,enchant_id=6166,gem_id=168638,bonus_id=7187/6652/6935/1498/6646"
+# Sinful Gladiator's Ring 226
+profileset."Combo 23"+="finger2=,id=175916,enchant_id=6166,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Badge of Ferocity 226
+profileset."Combo 23"+="trinket1=,id=175921,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Insignia of Alacrity 226
+profileset."Combo 23"+="trinket2=,id=178386,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Gavel 226
+profileset."Combo 23"+="main_hand=,id=183449,enchant_id=6229,bonus_id=7229/1498/6646"
+# Sinful Gladiator's Redoubt 226
+profileset."Combo 23"+="off_hand=,id=183438,bonus_id=6652/7135/1498/6646"
+profileset."Combo 23"+="talents=2112122"
+profileset."Combo 23"+="soulbind=bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+profileset."Combo 23"+="covenant=necrolord"
+
+### Combo 24
+# Sinful Gladiator's Chain Helm 226
+profileset."Combo 24"+="head=,id=175902,gem_id=173127,bonus_id=6634/1498/6646/6935"
+# Sinful Gladiator's Necklace 226
+profileset."Combo 24"+="neck=,id=175922,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Echoes of the Great Sundering 235
+profileset."Combo 24"+="shoulder=,id=172327,bonus_id=6716/6991/6647/6649/1532"
+# Decadent Nathrian Shawl 226
+profileset."Combo 24"+="back=,id=184778,enchant_id=6203,bonus_id=7187/6652/1498/6646"
+# Consumptive Chainmail Carapace 226
+profileset."Combo 24"+="chest=,id=183000,enchant_id=6230,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Bracers 226
+profileset."Combo 24"+="wrist=,id=178384,enchant_id=6220,gem_id=173127,bonus_id=6621/6652/1498/6646/6935"
+# Oathsworn Soldier's Gauntlets 233
+profileset."Combo 24"+="hands=,id=182991,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Belt 226
+profileset."Combo 24"+="waist=,id=175914,gem_id=173128,bonus_id=6623/6652/1498/6646/6935"
+# Lichbone Legguards 226
+profileset."Combo 24"+="legs=,id=178778,bonus_id=7214/6652/1501/5884/6646"
+# Legionnaire's Bloodstained Sabatons 226
+profileset."Combo 24"+="feet=,id=182990,enchant_id=6207,bonus_id=7187/6652/1498/6646"
+# Ardent Sunstar Signet 226
+profileset."Combo 24"+="finger1=,id=183035,enchant_id=6166,gem_id=168638,bonus_id=7187/6652/6935/1498/6646"
+# Sinful Gladiator's Ring 226
+profileset."Combo 24"+="finger2=,id=175916,enchant_id=6166,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Badge of Ferocity 226
+profileset."Combo 24"+="trinket1=,id=175921,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Insignia of Alacrity 226
+profileset."Combo 24"+="trinket2=,id=178386,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Gavel 226
+profileset."Combo 24"+="main_hand=,id=183449,enchant_id=6229,bonus_id=7229/1498/6646"
+# Sinful Gladiator's Redoubt 226
+profileset."Combo 24"+="off_hand=,id=183438,bonus_id=6652/7135/1498/6646"
+profileset."Combo 24"+="talents=2212122"
+profileset."Combo 24"+="soulbind=bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+profileset."Combo 24"+="covenant=necrolord"
+
+### Combo 25
+# Sinful Gladiator's Chain Helm 226
+profileset."Combo 25"+="head=,id=175902,gem_id=173127,bonus_id=6634/1498/6646/6935"
+# Sinful Gladiator's Necklace 226
+profileset."Combo 25"+="neck=,id=175922,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Echoes of the Great Sundering 235
+profileset."Combo 25"+="shoulder=,id=172327,bonus_id=6716/6991/6647/6649/1532"
+# Decadent Nathrian Shawl 226
+profileset."Combo 25"+="back=,id=184778,enchant_id=6203,bonus_id=7187/6652/1498/6646"
+# Consumptive Chainmail Carapace 226
+profileset."Combo 25"+="chest=,id=183000,enchant_id=6230,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Bracers 226
+profileset."Combo 25"+="wrist=,id=178384,enchant_id=6220,gem_id=173127,bonus_id=6621/6652/1498/6646/6935"
+# Oathsworn Soldier's Gauntlets 233
+profileset."Combo 25"+="hands=,id=182991,bonus_id=7187/6652/1498/6646"
+# Sinful Gladiator's Chain Belt 226
+profileset."Combo 25"+="waist=,id=175914,gem_id=173128,bonus_id=6623/6652/1498/6646/6935"
+# Lichbone Legguards 226
+profileset."Combo 25"+="legs=,id=178778,bonus_id=7214/6652/1501/5884/6646"
+# Legionnaire's Bloodstained Sabatons 226
+profileset."Combo 25"+="feet=,id=182990,enchant_id=6207,bonus_id=7187/6652/1498/6646"
+# Ardent Sunstar Signet 226
+profileset."Combo 25"+="finger1=,id=183035,enchant_id=6166,gem_id=168638,bonus_id=7187/6652/6935/1498/6646"
+# Sinful Gladiator's Ring 226
+profileset."Combo 25"+="finger2=,id=175916,enchant_id=6166,gem_id=173127,bonus_id=6621/1498/6646/6935"
+# Sinful Gladiator's Badge of Ferocity 226
+profileset."Combo 25"+="trinket1=,id=175921,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Insignia of Alacrity 226
+profileset."Combo 25"+="trinket2=,id=178386,bonus_id=6623/1498/6646"
+# Sinful Gladiator's Gavel 226
+profileset."Combo 25"+="main_hand=,id=183449,enchant_id=6229,bonus_id=7229/1498/6646"
+# Sinful Gladiator's Redoubt 226
+profileset."Combo 25"+="off_hand=,id=183438,bonus_id=6652/7135/1498/6646"
+profileset."Combo 25"+="talents=2312122"
+profileset."Combo 25"+="soulbind=bonesmith_heirmir:10,326514/104:5/326507/95:6/326512/94:6/92:6/326572"
+profileset."Combo 25"+="covenant=necrolord"
+
+
+# Simulation Configs
+iterations="100000"
+fight_style="Patchwerk"
+desired_targets="4"
+max_time="40"
+calculate_scale_factors="0"
+scale_only="strength,intellect,agility,crit,mastery,vers,haste,weapon_dps,weapon_offhand_dps"
+override.bloodlust="1"
+override.arcane_intellect="1"
+override.power_word_fortitude="1"
+override.battle_shout="1"
+override.mystic_touch="1"
+override.chaos_brand="1"
+override.windfury_totem="1"
+override.bleeding="1"
+report_details="1"
+single_actor_batch="1"
+optimize_expressions="1"
+target_error="0.05"
